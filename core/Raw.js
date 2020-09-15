@@ -12,8 +12,6 @@ const readRawData = function (raw) {
 
     raw = raw.replace(/(\r\n|\n|\r)/gm, ' ').split(' ')
 
-    console.log(raw)
-
     var question = {value: '', finished: true}
     var answer = {value: '', finished: true, correct: false}
 
@@ -62,13 +60,21 @@ const readRawData = function (raw) {
                     word = Number(word)
                     question = {value: '', finished: false}
                 // Answer
-                } else if (word.match(/[a-zA-Z]+/g)) {
+                } else if (word.match(/[a-zA-Z]+/g) && word.length < 3) {
                     word = word.match(/[a-zA-Z]+/g).join('')
                     pool.questions[pool.questions.length - 1].answers.push(answer.value)
                     if (answer.correct) {
                         pool.questions[pool.questions.length - 1].correct = answer.value
                     }
                     answer = {value: '', finished: false, correct: false}
+                } else if (!answer.finished) {
+                    answer.value += ` ${word}`
+                    if (raw[raw.length - 1] === word) {
+                        pool.questions[pool.questions.length - 1].answers.push(answer.value)
+                        if (answer.correct) {
+                            pool.questions[pool.questions.length - 1].correct = answer.value
+                        }
+                    }
                 }
             // Finish answer content
             } else if (!answer.finished) {
