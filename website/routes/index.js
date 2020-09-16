@@ -10,7 +10,7 @@ router.get('/', async (req, res) => {
 
 router.get('/test', async (req, res) => {
     res.render('../views/aah.html', {
-        field: 'Input here',
+        field: null,
         pool: null,
         xml: null
     })

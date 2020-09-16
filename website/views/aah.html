@@ -36,7 +36,11 @@
   <script src="http://cdn.jsdelivr.net/g/filesaver.js"></script>
 
   <form action="/something" method="POST" style="padding-left: 10px;">
-    <textarea id="title" name="title" style="width: 98%; height: 200px; resize: none;"><%= field %></textarea>
+    <% if (field) { %>
+      <textarea id="title" name="title" style="width: 98%; height: 200px; resize: none;"><%= field %></textarea>
+    <% } else { %>
+      <textarea id="title" name="title" style="width: 98%; height: 200px; resize: none;" placeholder="Input your text here"></textarea>
+    <% } %>
 
     <div style="padding-top: 10px;">
       <input type="submit" value="SAVE" class="botton">
@@ -67,7 +71,7 @@
       <% }) %>
     </div>
     <div style="padding-top: 20px;">
-      <input type="submit" value="Update Pool" class="botton">
+      <input type="submit" value="Refresh Pool" class="botton">
       <input type="button" value="Download XML File" onclick="downloadTwo(`<%= xml %>`)" class="botton">
     </div>
   </form>
