@@ -3,6 +3,9 @@
 <head>
   <meta charset="UTF-8">
   <title>File(s) size</title>
+
+  <link rel="stylesheet" href="/css/style.css">
+
   <script>
     function downloadTwo(data) {
 
@@ -32,27 +35,30 @@
   <script src="https://cdnjs.cloudflare.com/ajax/libs/jszip/3.5.0/jszip.min.js" integrity="sha512-y3o0Z5TJF1UsKjs/jS2CDkeHN538bWsftxO9nctODL5W40nyXIbs0Pgyu7//icrQY9m6475gLaVr39i/uh/nLA==" crossorigin="anonymous"></script>
   <script src="http://cdn.jsdelivr.net/g/filesaver.js"></script>
 
-  <form action="/something" method="POST">
-    <textarea id="title" name="title" style="width: 90%; height: 200px"><%= field %></textarea>
+  <form action="/something" method="POST" style="padding-left: 10px;">
+    <textarea id="title" name="title" style="width: 98%; height: 200px; resize: none;"><%= field %></textarea>
 
-    <input type="submit" value="Save" style="background: aqua">
+    <div style="padding-top: 10px;">
+      <input type="submit" value="SAVE" class="botton">
+    </div>
   </form>
 <% if (pool) { %>
   <form action="/update" method="POST">
-    <div id="div1">
+    <div id="div1" style="padding-left: 10px;">
       <% pool.questions.forEach(question => { %>
         <div style="background-color: #6be884; padding-left: 10px;">
-          <div contenteditable="true">
+          <div>
             <p style="font-size: 19px; padding-top: 10px;"><%= `${pool.questions.indexOf(question) + 1}) ` %><%= question.value %></p>
           </div>
           <div style="padding-left: 20px; padding-bottom: 10px;">
             <% question.answers.forEach(answer => { %>
-              <div contenteditable="true">
+              <div>
                 <% if (question.correct === answer) { %>
-                  <p style="font-weight: bold;" id="<%= `q${pool.questions.indexOf(question) + 1}a${question.answers.indexOf(answer) + 1}` %>" 
-                    name="<%= `q${pool.questions.indexOf(question) + 1}a${question.answers.indexOf(answer) + 1}` %>">- <%= answer %></p>
+                  <label style="font-weight: bold;"><input type="checkbox" checked id="<%= `q${pool.questions.indexOf(question) + 1}a${question.answers.indexOf(answer) + 1}` %>" 
+                    name="<%= `q${pool.questions.indexOf(question) + 1}a${question.answers.indexOf(answer) + 1}` %>" value="value"><%= answer %></label>
                 <% } else { %>
-                  <p>- <%= answer %></p>
+                  <label><input type="checkbox" id="<%= `q${pool.questions.indexOf(question) + 1}a${question.answers.indexOf(answer) + 1}` %>" 
+                    name="<%= `q${pool.questions.indexOf(question) + 1}a${question.answers.indexOf(answer) + 1}` %>" value="value"><%= answer %></label>
                 <% } %>
               </div>
             <% }) %>
@@ -60,8 +66,10 @@
         </div>
       <% }) %>
     </div>
-    <input type="submit" value="Update Pool" style="background: aqua">
-    <input type="button" value="Download XML File" onclick="downloadTwo(`<%= xml %>`)"/>
+    <div style="padding-top: 20px;">
+      <input type="submit" value="Update Pool" class="botton">
+      <input type="button" value="Download XML File" onclick="downloadTwo(`<%= xml %>`)" class="botton">
+    </div>
   </form>
 <% } %>
 </body>
