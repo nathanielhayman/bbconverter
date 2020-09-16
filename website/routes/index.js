@@ -42,7 +42,7 @@ router.post('/update', async (req, res) => {
     console.log(req.body)
 
     res.render('../views/aah.html', {
-        field: 'Input here',
+        field: null,
         xml: null,
         pool: null
     })
