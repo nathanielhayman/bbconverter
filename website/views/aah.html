@@ -50,23 +50,38 @@
 <% if (pool) { %>
   <form action="/update" method="POST">
     <div id="div1" style="padding-left: 10px;">
+      <% if (pool.title) { %>
+        <h5 style="color: azure; font-size: large;"><%= pool.title %></h5>
+      <% } %>
       <% pool.questions.forEach(question => { %>
         <div style="background-color: #6be884; padding-left: 10px;">
           <div>
             <p style="font-size: 19px; padding-top: 10px;"><%= `${pool.questions.indexOf(question) + 1}) ` %><%= question.value %></p>
           </div>
           <div style="padding-left: 20px; padding-bottom: 10px;">
-            <% question.answers.forEach(answer => { %>
+            <% if (question.answers[0]) { %>
+              <% question.answers.forEach(answer => { %>
+                <div>
+                  <% if (question.correct === answer) { %>
+                    <label style="font-weight: bold;"><input type="checkbox" checked id="<%= `q${pool.questions.indexOf(question) + 1}a${question.answers.indexOf(answer) + 1}` %>" 
+                      name="<%= `q${pool.questions.indexOf(question) + 1}a${question.answers.indexOf(answer) + 1}` %>" value="value"><%= answer %></label>
+                  <% } else { %>
+                    <label><input type="checkbox" disabled id="<%= `q${pool.questions.indexOf(question) + 1}a${question.answers.indexOf(answer) + 1}` %>" 
+                      name="<%= `q${pool.questions.indexOf(question) + 1}a${question.answers.indexOf(answer) + 1}` %>" value="value"><%= answer %></label>
+                  <% } %>
+                </div>
+              <% }) %>
+            <% } else if (question.correct) { %>
               <div>
-                <% if (question.correct === answer) { %>
-                  <label style="font-weight: bold;"><input type="checkbox" checked id="<%= `q${pool.questions.indexOf(question) + 1}a${question.answers.indexOf(answer) + 1}` %>" 
-                    name="<%= `q${pool.questions.indexOf(question) + 1}a${question.answers.indexOf(answer) + 1}` %>" value="value"><%= answer %></label>
+                <% if (question.correct.toLowerCase() === 't' || question.correct.toLowerCase() === 'true') { %>
+                  <label style="font-weight: bold;"><input type="checkbox" checked id="<%= `q${pool.questions.indexOf(question) + 1}` %>" 
+                    name="<%= `q${pool.questions.indexOf(question) + 1}` %>" value="value">True</label>
                 <% } else { %>
-                  <label><input type="checkbox" id="<%= `q${pool.questions.indexOf(question) + 1}a${question.answers.indexOf(answer) + 1}` %>" 
-                    name="<%= `q${pool.questions.indexOf(question) + 1}a${question.answers.indexOf(answer) + 1}` %>" value="value"><%= answer %></label>
+                  <label style="font-weight: bold;"><input type="checkbox" disabled id="<%= `q${pool.questions.indexOf(question) + 1}` %>" 
+                    name="<%= `q${pool.questions.indexOf(question) + 1}` %>" value="value">False</label>
                 <% } %>
               </div>
-            <% }) %>
+            <% } %>
           </div>
         </div>
       <% }) %>
