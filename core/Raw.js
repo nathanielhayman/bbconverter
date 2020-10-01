@@ -54,6 +54,7 @@ const readRawData = function (raw) {
                 if (words[0].startsWith('*')) {
                     words.shift()
                     pool.questions[pool.questions.length - 1].correct = words.join(' ')
+                    pool.questions[pool.questions.length - 1].answers.push(words.join(' '))
                 } else {
                     words.shift()
                     pool.questions[pool.questions.length - 1].answers.push(words.join(' '))
