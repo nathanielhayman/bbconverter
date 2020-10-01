@@ -9,7 +9,7 @@
 const builder = require('xmlbuilder');
 const fs = require('fs');
 
-const { generateMultipleChoiceQuestions } = require('./MultipleChoiceParser')
+const { generateXMLQuestions } = require('./MultipleChoiceParser')
 const { bbFormattedDate } = require('../utils/Date')
 
 
@@ -30,6 +30,8 @@ let generateFile = function (questions, err) {
 
     // Writer for the XML. Uses package 'xmlbuilder'
     const root = builder.create('POOL', { encoding: 'UTF-8' })
+
+    const generatedQuestions = generateXMLQuestions(questions, now)
 
     const obj = {
 
@@ -61,7 +63,11 @@ let generateFile = function (questions, err) {
         },
 
         // Multiple Choice with answers
-        QUESTION_MULTIPLECHOICE: generateMultipleChoiceQuestions(questions, now),
+        QUESTION_MULTIPLECHOICE: generatedQuestions[0],
+
+        QUESTION_TRUEFALSE: generatedQuestions[1],
+
+        QUESTION_ESSAY: generateXMLQuestions[2]
 
     };
 

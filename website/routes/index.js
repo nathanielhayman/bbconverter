@@ -26,10 +26,7 @@ router.post('/something', async (req, res) => {
         data = generateFullPool(req.body.title)
         xml = data[0]
         pool = data[1]
-    } else if (req.body.upload) {
-        console.log(req.body.upload)
     }
-    console.log(xml)
 
     res.render('../views/aah.html', {
         field: req.body.title,
