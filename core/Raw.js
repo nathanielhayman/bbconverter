@@ -54,22 +54,18 @@ const readRawData = function (raw) {
                 if (words[0].startsWith('*')) {
                     words.shift()
                     pool.questions[pool.questions.length - 1].correct = words.join(' ')
+                    pool.questions[pool.questions.length - 1].type = 'QUESTION_MULTIPLECHOICE'
                     pool.questions[pool.questions.length - 1].answers.push(words.join(' '))
                 } else {
                     words.shift()
+                    pool.questions[pool.questions.length - 1].type = 'QUESTION_MULTIPLECHOICE'
                     pool.questions[pool.questions.length - 1].answers.push(words.join(' '))
                 }
 
             } else if (Number(words[0])) {
 
-                if (pool.questions[0]) {
-                    if (!pool.questions[pool.questions.length - 1].answers[0]) {
-                        pool.questions[pool.questions.length - 1].type = 'QUESTION_ESSAY'
-                    }
-                }
-
                 words.shift()
-                pool.questions.push({value: words.join(' '), answers: [], correct: null, type: 'QUESTION_MULTIPLECHOICE'})
+                pool.questions.push({value: words.join(' '), answers: [], correct: null, type: 'QUESTION_ESSAY'})
 
             }
 

@@ -33,6 +33,9 @@ let generateFile = function (questions, err) {
 
     const generatedQuestions = generateXMLQuestions(questions, now)
 
+    console.log(generatedQuestions[1])
+    console.log(generatedQuestions[2])
+
     const obj = {
 
         COURSEID: {'@value': 'IMPORT'},
@@ -67,7 +70,7 @@ let generateFile = function (questions, err) {
 
         QUESTION_TRUEFALSE: generatedQuestions[1],
 
-        QUESTION_ESSAY: generateXMLQuestions[2]
+        QUESTION_ESSAY: generateXMLQuestions[2],
 
     };
 
@@ -78,6 +81,7 @@ let generateFile = function (questions, err) {
     fs.writeFile('something.xml', xml, function (err) {
         if (err) throw err;
     })
+    console.log(xml)
     return xml
 }
 
