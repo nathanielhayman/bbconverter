@@ -45,7 +45,11 @@
     <% } %>
 
     <div style="padding-top: 10px;">
-      <input type="submit" value="Save" class="botton">
+      <% if (pool) { %>
+        <input type="submit" value="Update" class="botton">
+      <% } else { %>
+        <input type="submit" value="Save" class="botton">
+      <% } %>
       <a class="botton" style="background: #3e4042;" href="/">Cancel</a>
     </div>
   </form>
