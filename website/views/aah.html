@@ -46,20 +46,21 @@
     <% } %>
 
     <div style="padding-top: 10px;">
-      <input type="submit" value="SAVE" class="botton">
-      <button class="botton" style="background: #888888;">Cancel</button>
+      <input type="submit" value="Save" class="botton">
+      <a class="botton" style="background: #4a4a4a;" href="/">Cancel</a>
     </div>
   </form>
 <% if (pool) { %>
   <form action="/update" method="POST">
     <div id="div1" style="padding-left: 10px;">
       <% if (pool.title) { %>
-        <h5 style="color: azure; font-size: large;"><%= pool.title %></h5>
+        <h5 style="color: azure; font-size: large;"><%= pool.title %> (<%= pool.questions.length %> questions)</h5>
       <% } %>
       <% pool.questions.forEach(question => { %>
-        <div style="background-color: #6be884; padding-left: 10px;">
+        <div class="hoverdiv" style="padding-left: 10px; border-radius: 10px;">
           <div>
             <p style="font-size: 19px; padding-top: 10px;"><%= `${pool.questions.indexOf(question) + 1}) ` %><%= question.value %></p>
+            <p class="topleft"><i class="fas fa-pen-square"></i></p>
           </div>
           <div style="padding-left: 20px; padding-bottom: 10px;">
             <% if (question.answers[0]) { %>
@@ -91,9 +92,9 @@
         </div>
       <% }) %>
     </div>
-    <div style="padding-top: 20px;">
-      <input type="submit" value="Refresh Pool" class="botton">
+    <div style="padding-top: 20px; padding-left: 10px;">
       <input type="button" value="Download XML File" onclick="downloadTwo(`<%= xml %>`)" class="botton">
+      <input type="submit" style="background: #4a4a4a;" value="Refresh Pool" class="botton">
     </div>
   </form>
 <% } %>

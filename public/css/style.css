@@ -5,6 +5,11 @@ body {
     font-family: Arial, Helvetica, sans-serif;
 }
 
+.blurdiv:hover {
+    filter: blur(8px);  
+    -webkit-filter: blur(8px);
+}
+
 textarea {
     background:#404040;
     color: #ffffff;
@@ -30,15 +35,9 @@ textarea {
 }
 
 .title-bg {
-    background: linear-gradient(90deg, rgba(87,94,223,0.6) 0%, rgba(60,162,255,0.8) 100%),
+    background: linear-gradient(150deg, rgba(79,151,200,0.6) 15%, rgba(5,141,212,1) 100%),
     url(https://i.ytimg.com/vi/AHLepMi8NnA/maxresdefault.jpg);
-    background-size: cover;
-}
-
-.bottom-bg {
-    background: linear-gradient(90deg, rgba(87,94,223,0.6) 0%, rgba(60,162,255,0.8) 100%),
-    url(https://www.pueblo.us/ImageRepository/Document?documentID=24696);
-    background-size: cover;
+    background-size: cover; 
 }
 
 .action-content {
@@ -48,10 +47,25 @@ textarea {
     padding: 30px;
 }
 
+.topleft {
+    position: absolute;
+    top: 8px;
+    right: 16px;
+}
+
+.hoverdiv {
+    background: #2db2f7;
+}
+
+.hoverdiv:hover {
+    background: #50c0fa;
+}
+
 .botton {
     cursor: pointer;
-    background: linear-gradient(90deg, rgba(87,94,223,0.6) 0%, rgba(60,162,255,0.8) 100%);
-    border: 2px solid white;
+    background: #049ff0;
+    border: none;
+    border-radius: 20px;
     color: white;
     padding: 15px 32px;
     text-align: center;
@@ -59,21 +73,28 @@ textarea {
     display: inline-block;
     font-size: 14px;
     font-weight: 500;
+    outline: 0;
     transition: all 0.3s ease-in-out
 }
 
 .botton:hover {
-    background: linear-gradient(150deg, rgba(236,63,63,1) 15%, rgba(223,87,87,1) 100%);
-    color: #ffffff;
-}
-
-.botton:active {
-    background: rgba(60,162,255,0.8);
-    border: 2px solid white;
+    background: #2db2f7;
+    border: none;
 }
 
 .botton:focus {
-    background: linear-gradient(150deg, rgba(236,63,63,1) 15%, rgba(223,87,87,1) 100%);
+    background: #2db2f7;
+    border: none;
+    outline: 0;
+}
+
+.botton:active {
+    background: #2db2f7;
+    border: none;
+}
+
+.botton:focus {
+    background: black;
     color: #ffffff;
     border: 2px solid white;
 }
