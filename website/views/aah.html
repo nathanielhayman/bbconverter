@@ -32,7 +32,6 @@
       zip.file("res00001.dat", data);
       zip.generateAsync({type:"blob"})
       .then(function(content) {
-        // see FileSaver.js
         saveAs(content, "blackboard.zip");
       });
     }
@@ -47,7 +46,7 @@
 
     <div style="padding-top: 10px;">
       <input type="submit" value="Save" class="botton">
-      <a class="botton" style="background: #4a4a4a;" href="/">Cancel</a>
+      <a class="botton" style="background: #3e4042;" href="/">Cancel</a>
     </div>
   </form>
 <% if (pool) { %>
@@ -86,15 +85,15 @@
                 <% } %>
               </div>
             <% } else if (!question.correct) { %>
-                <p style="font-weight: bold;"><i class="fas fa-exclamation-circle"></i> Please note that this question is considered an essay question because it has no answer!</p>
+              <p style="font-weight: bold; color: light;"><i class="fas fa-exclamation-circle"></i> Please note that this question is considered an essay question because it has no answer!</p>
             <% } %>
           </div>
         </div>
       <% }) %>
     </div>
     <% if (xml) { %>
-      <div style="padding-top: 20px; padding-left: 10px; padding-right: 80%;">
-        <div style="color: #ffffff; padding: 10px; padding-left: 20px; background-color: #3e4042; border-radius: 5px;">
+      <div style="padding-top: 20px; padding-left: 10px; width: auto">
+        <div style="color: #ffffff; padding: 10px; padding-left: 20px; background-color: #3e4042; border-radius: 5px; width: 50%;">
           <h4>File Preview</h4>
           <p><i class="fas fa-file-archive"></i> blackboard.zip</p>
           <div style="padding-left: 10px;">
@@ -102,12 +101,14 @@
             <p><i class="fas fa-file"></i> res00001.dat</p>
           </div>
         </div>
+        <div style="margin-left: 60%; position: absolute; margin-top: -180px;">
+          <input type="button" value="Download blackboard.zip" onclick="downloadTwo(`<%= xml %>`)" class="botton">
+          <input type="submit" style="background: #3e4042;" value="Refresh Pool" class="botton">
+        </div>
       </div>
       
     <% } %>
     <div style="padding-top: 20px; padding-left: 10px;">
-      <input type="button" value="Download blackboard.zip" onclick="downloadTwo(`<%= xml %>`)" class="botton">
-      <input type="submit" style="background: #4a4a4a;" value="Refresh Pool" class="botton">
     </div>
   </form>
 <% } %>
