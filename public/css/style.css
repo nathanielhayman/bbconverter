@@ -82,19 +82,14 @@ textarea {
     border: none;
 }
 
-.botton:focus {
-    background: #2db2f7;
-    border: none;
-    outline: 0;
-}
-
+.botton:focus,
+.botton:active:focus,
+.botton.active:focus,
+.botton.focus,
+.botton:active.focus,
+.botton.active.focus,
 .botton:active {
     background: #2db2f7;
     border: none;
-}
-
-.botton:focus {
-    background: black;
-    color: #ffffff;
-    border: 2px solid white;
+    outline: 0;
 }

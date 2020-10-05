@@ -57,7 +57,7 @@
         <h5 style="color: azure; font-size: large;"><%= pool.title %> (<%= pool.questions.length %> questions)</h5>
       <% } %>
       <% pool.questions.forEach(question => { %>
-        <div class="hoverdiv" style="padding-left: 10px; border-radius: 10px;">
+        <div class="hoverdiv" style="padding-left: 10px; border-radius: 10px; width: auto;">
           <div>
             <p style="font-size: 19px; padding-top: 10px;"><%= `${pool.questions.indexOf(question) + 1}) ` %><%= question.value %></p>
             <p class="topleft"><i class="fas fa-pen-square"></i></p>
@@ -92,8 +92,21 @@
         </div>
       <% }) %>
     </div>
+    <% if (xml) { %>
+      <div style="padding-top: 20px; padding-left: 10px; padding-right: 80%;">
+        <div style="color: #ffffff; padding: 10px; padding-left: 20px; background-color: #3e4042; border-radius: 5px;">
+          <h4>File Preview</h4>
+          <p><i class="fas fa-file-archive"></i> blackboard.zip</p>
+          <div style="padding-left: 10px;">
+            <p><i class="fas fa-file-excel"></i> imsmanifest.xml</p>
+            <p><i class="fas fa-file"></i> res00001.dat</p>
+          </div>
+        </div>
+      </div>
+      
+    <% } %>
     <div style="padding-top: 20px; padding-left: 10px;">
-      <input type="button" value="Download XML File" onclick="downloadTwo(`<%= xml %>`)" class="botton">
+      <input type="button" value="Download blackboard.zip" onclick="downloadTwo(`<%= xml %>`)" class="botton">
       <input type="submit" style="background: #4a4a4a;" value="Refresh Pool" class="botton">
     </div>
   </form>
