@@ -23,12 +23,16 @@ const readRawData = function (raw) {
     var alphabet = ["a", "b", "c", "d", "e", "f", "g", "h", "i", "j", "k", "l", "m", 
                     "n", "o", "p", "q", "r", "s", "t", "u", "v", "w", "x", "y", "z"]
 
+    console.log(questionTerms.some(i => i === ')'))
+
     raw = ograw.replace(/(\r)/gm, ' ')
     var lines = raw.split('\n')
     lines.forEach(line => {
         words = line.split(' ')
         
-        if (questionTerms.some(i => words[0].includes(i))) {
+        if (questionTerms.some(i => words[0].endsWith(i))) {
+
+            console.log(words[0])
 
             if (words[0].toLowerCase().startsWith('ans' || 'answer')) {
 
@@ -62,7 +66,7 @@ const readRawData = function (raw) {
                     pool.questions[pool.questions.length - 1].answers.push(words.join(' '))
                 }
 
-            } else if (Number(words[0])) {
+            } else if (Number(words[0].slice(0, -1))) {
 
                 words.shift()
                 pool.questions.push({value: words.join(' '), answers: [], correct: null, type: 'QUESTION_ESSAY'})
@@ -75,6 +79,8 @@ const readRawData = function (raw) {
 
         }
     })
+
+    console.log(pool)
 
     return pool
 }
