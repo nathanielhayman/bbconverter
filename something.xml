@@ -6,21 +6,72 @@
     <TEXT>Created by the Generator yay!</TEXT>
   </DESCRIPTION>
   <DATES>
-    <CREATED value="2020-10-05 18:10:43z"/>
-    <UPDATED value="2020-10-05 18:10:43z"/>
+    <CREATED value="2020-10-05 21:37:31z"/>
+    <UPDATED value="2020-10-05 21:37:31z"/>
   </DATES>
   <QUESTIONLIST>
     <QUESTION id="q1" class="QUESTION_MULTIPLECHOICE"/>
     <QUESTION id="q2" class="QUESTION_MULTIPLECHOICE"/>
     <QUESTION id="q3" class="QUESTION_MULTIPLECHOICE"/>
+    <QUESTION id="q4" class="QUESTION_MULTIPLECHOICE"/>
+    <QUESTION id="q5" class="QUESTION_MULTIPLECHOICE"/>
+    <QUESTION id="q6" class="QUESTION_MULTIPLECHOICE"/>
+    <QUESTION id="q7" class="QUESTION_MULTIPLECHOICE"/>
+    <QUESTION id="q8" class="QUESTION_MULTIPLECHOICE"/>
+    <QUESTION id="q9" class="QUESTION_MULTIPLECHOICE"/>
+    <QUESTION id="q10" class="QUESTION_MULTIPLECHOICE"/>
+    <QUESTION id="q11" class="QUESTION_MULTIPLECHOICE"/>
+    <QUESTION id="q12" class="QUESTION_MULTIPLECHOICE"/>
+    <QUESTION id="q13" class="QUESTION_MULTIPLECHOICE"/>
+    <QUESTION id="q14" class="QUESTION_MULTIPLECHOICE"/>
+    <QUESTION id="q15" class="QUESTION_MULTIPLECHOICE"/>
+    <QUESTION id="q16" class="QUESTION_MULTIPLECHOICE"/>
+    <QUESTION id="q17" class="QUESTION_MULTIPLECHOICE"/>
+    <QUESTION id="q18" class="QUESTION_MULTIPLECHOICE"/>
+    <QUESTION id="q19" class="QUESTION_MULTIPLECHOICE"/>
+    <QUESTION id="q20" class="QUESTION_MULTIPLECHOICE"/>
+    <QUESTION id="q21" class="QUESTION_MULTIPLECHOICE"/>
+    <QUESTION id="q22" class="QUESTION_MULTIPLECHOICE"/>
+    <QUESTION id="q23" class="QUESTION_MULTIPLECHOICE"/>
+    <QUESTION id="q24" class="QUESTION_MULTIPLECHOICE"/>
+    <QUESTION id="q25" class="QUESTION_MULTIPLECHOICE"/>
+    <QUESTION id="q26" class="QUESTION_MULTIPLECHOICE"/>
+    <QUESTION id="q27" class="QUESTION_MULTIPLECHOICE"/>
+    <QUESTION id="q28" class="QUESTION_MULTIPLECHOICE"/>
+    <QUESTION id="q29" class="QUESTION_MULTIPLECHOICE"/>
+    <QUESTION id="q30" class="QUESTION_MULTIPLECHOICE"/>
+    <QUESTION id="q31" class="QUESTION_TRUEFALSE"/>
+    <QUESTION id="q32" class="QUESTION_TRUEFALSE"/>
+    <QUESTION id="q33" class="QUESTION_TRUEFALSE"/>
+    <QUESTION id="q34" class="QUESTION_TRUEFALSE"/>
+    <QUESTION id="q35" class="QUESTION_TRUEFALSE"/>
+    <QUESTION id="q36" class="QUESTION_TRUEFALSE"/>
+    <QUESTION id="q37" class="QUESTION_TRUEFALSE"/>
+    <QUESTION id="q38" class="QUESTION_TRUEFALSE"/>
+    <QUESTION id="q39" class="QUESTION_TRUEFALSE"/>
+    <QUESTION id="q40" class="QUESTION_TRUEFALSE"/>
+    <QUESTION id="q41" class="QUESTION_TRUEFALSE"/>
+    <QUESTION id="q42" class="QUESTION_TRUEFALSE"/>
+    <QUESTION id="q43" class="QUESTION_TRUEFALSE"/>
+    <QUESTION id="q44" class="QUESTION_TRUEFALSE"/>
+    <QUESTION id="q45" class="QUESTION_TRUEFALSE"/>
+    <QUESTION id="q46" class="QUESTION_TRUEFALSE"/>
+    <QUESTION id="q47" class="QUESTION_TRUEFALSE"/>
+    <QUESTION id="q48" class="QUESTION_TRUEFALSE"/>
+    <QUESTION id="q49" class="QUESTION_TRUEFALSE"/>
+    <QUESTION id="q50" class="QUESTION_TRUEFALSE"/>
+    <QUESTION id="q51" class="QUESTION_ESSAY"/>
+    <QUESTION id="q52" class="QUESTION_ESSAY"/>
+    <QUESTION id="q53" class="QUESTION_ESSAY"/>
+    <QUESTION id="q54" class="QUESTION_ESSAY"/>
   </QUESTIONLIST>
   <QUESTION_MULTIPLECHOICE id="q1">
     <DATES>
-      <CREATED value="2020-10-05 18:10:43z"/>
-      <UPDATED value="2020-10-05 18:10:43z"/>
+      <CREATED value="2020-10-05 21:37:31z"/>
+      <UPDATED value="2020-10-05 21:37:31z"/>
     </DATES>
     <BODY>
-      <TEXT>Properties of the collective environment that are not dependent on the perceptions or behaviors of any one individual are called ...  </TEXT>
+      <TEXT>Symbolic interactionism focuses on which of the following? </TEXT>
       <FLAGS value="true">
         <ISHTML value="true"/>
         <ISNEWLINELITERAL/>
@@ -28,45 +79,45 @@
     </BODY>
     <ANSWER id="q1_a1" position="1">
       <DATES>
-        <CREATED value="2020-10-05 18:10:43z"/>
-        <UPDATED value="2020-10-05 18:10:43z"/>
+        <CREATED value="2020-10-05 21:37:31z"/>
+        <UPDATED value="2020-10-05 21:37:31z"/>
       </DATES>
-      <TEXT>instruments of stratification </TEXT>
+      <TEXT>macrostructures </TEXT>
     </ANSWER>
     <ANSWER id="q1_a2" position="2">
       <DATES>
-        <CREATED value="2020-10-05 18:10:43z"/>
-        <UPDATED value="2020-10-05 18:10:43z"/>
+        <CREATED value="2020-10-05 21:37:31z"/>
+        <UPDATED value="2020-10-05 21:37:31z"/>
       </DATES>
-      <TEXT>partial patterns </TEXT>
+      <TEXT>families </TEXT>
     </ANSWER>
     <ANSWER id="q1_a3" position="3">
       <DATES>
-        <CREATED value="2020-10-05 18:10:43z"/>
-        <UPDATED value="2020-10-05 18:10:43z"/>
+        <CREATED value="2020-10-05 21:37:31z"/>
+        <UPDATED value="2020-10-05 21:37:31z"/>
       </DATES>
-      <TEXT>social facts </TEXT>
+      <TEXT>religion </TEXT>
     </ANSWER>
     <ANSWER id="q1_a4" position="4">
       <DATES>
-        <CREATED value="2020-10-05 18:10:43z"/>
-        <UPDATED value="2020-10-05 18:10:43z"/>
+        <CREATED value="2020-10-05 21:37:31z"/>
+        <UPDATED value="2020-10-05 21:37:31z"/>
       </DATES>
-      <TEXT>social norms </TEXT>
+      <TEXT>everyday life </TEXT>
     </ANSWER>
     <GRADABLE>
       <FEEDBACK_WHEN_CORRECT>Correct!</FEEDBACK_WHEN_CORRECT>
       <FEEDBACK_WHEN_INCORRECT>That's not correct!</FEEDBACK_WHEN_INCORRECT>
-      <CORRECTANSWER answer_id="q1_a3"/>
+      <CORRECTANSWER answer_id="q1_a4"/>
     </GRADABLE>
   </QUESTION_MULTIPLECHOICE>
   <QUESTION_MULTIPLECHOICE id="q2">
     <DATES>
-      <CREATED value="2020-10-05 18:10:43z"/>
-      <UPDATED value="2020-10-05 18:10:43z"/>
+      <CREATED value="2020-10-05 21:37:31z"/>
+      <UPDATED value="2020-10-05 21:37:31z"/>
     </DATES>
     <BODY>
-      <TEXT>Properties of the collective environment that are not dependent on the perceptions or behaviors of any one individual are called ...  </TEXT>
+      <TEXT>Which of the following is a fundamental assumption of symbolic interactionism? </TEXT>
       <FLAGS value="true">
         <ISHTML value="true"/>
         <ISNEWLINELITERAL/>
@@ -74,31 +125,31 @@
     </BODY>
     <ANSWER id="q2_a1" position="1">
       <DATES>
-        <CREATED value="2020-10-05 18:10:43z"/>
-        <UPDATED value="2020-10-05 18:10:43z"/>
+        <CREATED value="2020-10-05 21:37:31z"/>
+        <UPDATED value="2020-10-05 21:37:31z"/>
       </DATES>
-      <TEXT>instruments of stratification </TEXT>
+      <TEXT>People often act without purpose. </TEXT>
     </ANSWER>
     <ANSWER id="q2_a2" position="2">
       <DATES>
-        <CREATED value="2020-10-05 18:10:43z"/>
-        <UPDATED value="2020-10-05 18:10:43z"/>
+        <CREATED value="2020-10-05 21:37:31z"/>
+        <UPDATED value="2020-10-05 21:37:31z"/>
       </DATES>
-      <TEXT>partial patterns </TEXT>
+      <TEXT>Society is made up of social structures. </TEXT>
     </ANSWER>
     <ANSWER id="q2_a3" position="3">
       <DATES>
-        <CREATED value="2020-10-05 18:10:43z"/>
-        <UPDATED value="2020-10-05 18:10:43z"/>
+        <CREATED value="2020-10-05 21:37:31z"/>
+        <UPDATED value="2020-10-05 21:37:31z"/>
       </DATES>
-      <TEXT>social facts </TEXT>
+      <TEXT>People become human through social interaction. </TEXT>
     </ANSWER>
     <ANSWER id="q2_a4" position="4">
       <DATES>
-        <CREATED value="2020-10-05 18:10:43z"/>
-        <UPDATED value="2020-10-05 18:10:43z"/>
+        <CREATED value="2020-10-05 21:37:31z"/>
+        <UPDATED value="2020-10-05 21:37:31z"/>
       </DATES>
-      <TEXT>social norms </TEXT>
+      <TEXT>People, in contrast to animals, are unique in their ability to react to other’s behavior. </TEXT>
     </ANSWER>
     <GRADABLE>
       <FEEDBACK_WHEN_CORRECT>Correct!</FEEDBACK_WHEN_CORRECT>
@@ -108,11 +159,11 @@
   </QUESTION_MULTIPLECHOICE>
   <QUESTION_MULTIPLECHOICE id="q3">
     <DATES>
-      <CREATED value="2020-10-05 18:10:43z"/>
-      <UPDATED value="2020-10-05 18:10:43z"/>
+      <CREATED value="2020-10-05 21:37:31z"/>
+      <UPDATED value="2020-10-05 21:37:31z"/>
     </DATES>
     <BODY>
-      <TEXT>Properties of the collective environment that are not dependent on the perceptions or behaviors of any one individual are called ...  </TEXT>
+      <TEXT>The key method of symbolic interactionism became which of the following through the urging of Robert Park and others? </TEXT>
       <FLAGS value="true">
         <ISHTML value="true"/>
         <ISNEWLINELITERAL/>
@@ -120,36 +171,1918 @@
     </BODY>
     <ANSWER id="q3_a1" position="1">
       <DATES>
-        <CREATED value="2020-10-05 18:10:43z"/>
-        <UPDATED value="2020-10-05 18:10:43z"/>
+        <CREATED value="2020-10-05 21:37:31z"/>
+        <UPDATED value="2020-10-05 21:37:31z"/>
       </DATES>
-      <TEXT>instruments of stratification </TEXT>
+      <TEXT>surveys </TEXT>
     </ANSWER>
     <ANSWER id="q3_a2" position="2">
       <DATES>
-        <CREATED value="2020-10-05 18:10:43z"/>
-        <UPDATED value="2020-10-05 18:10:43z"/>
+        <CREATED value="2020-10-05 21:37:31z"/>
+        <UPDATED value="2020-10-05 21:37:31z"/>
       </DATES>
-      <TEXT>partial patterns </TEXT>
+      <TEXT>observation </TEXT>
     </ANSWER>
     <ANSWER id="q3_a3" position="3">
       <DATES>
-        <CREATED value="2020-10-05 18:10:43z"/>
-        <UPDATED value="2020-10-05 18:10:43z"/>
+        <CREATED value="2020-10-05 21:37:31z"/>
+        <UPDATED value="2020-10-05 21:37:31z"/>
       </DATES>
-      <TEXT>social facts </TEXT>
+      <TEXT>in-depth interviews </TEXT>
     </ANSWER>
     <ANSWER id="q3_a4" position="4">
       <DATES>
-        <CREATED value="2020-10-05 18:10:43z"/>
-        <UPDATED value="2020-10-05 18:10:43z"/>
+        <CREATED value="2020-10-05 21:37:31z"/>
+        <UPDATED value="2020-10-05 21:37:31z"/>
       </DATES>
-      <TEXT>social norms</TEXT>
+      <TEXT>theorizing </TEXT>
     </ANSWER>
     <GRADABLE>
       <FEEDBACK_WHEN_CORRECT>Correct!</FEEDBACK_WHEN_CORRECT>
       <FEEDBACK_WHEN_INCORRECT>That's not correct!</FEEDBACK_WHEN_INCORRECT>
-      <CORRECTANSWER answer_id="q3_a3"/>
+      <CORRECTANSWER answer_id="q3_a2"/>
     </GRADABLE>
   </QUESTION_MULTIPLECHOICE>
+  <QUESTION_MULTIPLECHOICE id="q4">
+    <DATES>
+      <CREATED value="2020-10-05 21:37:31z"/>
+      <UPDATED value="2020-10-05 21:37:31z"/>
+    </DATES>
+    <BODY>
+      <TEXT>Which theorist is best known for the concept of the looking-glass self? </TEXT>
+      <FLAGS value="true">
+        <ISHTML value="true"/>
+        <ISNEWLINELITERAL/>
+      </FLAGS>
+    </BODY>
+    <ANSWER id="q4_a1" position="1">
+      <DATES>
+        <CREATED value="2020-10-05 21:37:31z"/>
+        <UPDATED value="2020-10-05 21:37:31z"/>
+      </DATES>
+      <TEXT>George Herbert Mead </TEXT>
+    </ANSWER>
+    <ANSWER id="q4_a2" position="2">
+      <DATES>
+        <CREATED value="2020-10-05 21:37:31z"/>
+        <UPDATED value="2020-10-05 21:37:31z"/>
+      </DATES>
+      <TEXT>Charles Horton Cooley </TEXT>
+    </ANSWER>
+    <ANSWER id="q4_a3" position="3">
+      <DATES>
+        <CREATED value="2020-10-05 21:37:31z"/>
+        <UPDATED value="2020-10-05 21:37:31z"/>
+      </DATES>
+      <TEXT>Erving Goffman </TEXT>
+    </ANSWER>
+    <ANSWER id="q4_a4" position="4">
+      <DATES>
+        <CREATED value="2020-10-05 21:37:31z"/>
+        <UPDATED value="2020-10-05 21:37:31z"/>
+      </DATES>
+      <TEXT>Robert Park </TEXT>
+    </ANSWER>
+    <GRADABLE>
+      <FEEDBACK_WHEN_CORRECT>Correct!</FEEDBACK_WHEN_CORRECT>
+      <FEEDBACK_WHEN_INCORRECT>That's not correct!</FEEDBACK_WHEN_INCORRECT>
+      <CORRECTANSWER answer_id="q4_a2"/>
+    </GRADABLE>
+  </QUESTION_MULTIPLECHOICE>
+  <QUESTION_MULTIPLECHOICE id="q5">
+    <DATES>
+      <CREATED value="2020-10-05 21:37:31z"/>
+      <UPDATED value="2020-10-05 21:37:31z"/>
+    </DATES>
+    <BODY>
+      <TEXT>What is the term for putting oneself in the mind of those being studied in a way that one can be sympathetic to who they are and what they are thinking and their meanings and motives that lie at the root of their behavior? </TEXT>
+      <FLAGS value="true">
+        <ISHTML value="true"/>
+        <ISNEWLINELITERAL/>
+      </FLAGS>
+    </BODY>
+    <ANSWER id="q5_a1" position="1">
+      <DATES>
+        <CREATED value="2020-10-05 21:37:31z"/>
+        <UPDATED value="2020-10-05 21:37:31z"/>
+      </DATES>
+      <TEXT>symbolic interactionism </TEXT>
+    </ANSWER>
+    <ANSWER id="q5_a2" position="2">
+      <DATES>
+        <CREATED value="2020-10-05 21:37:31z"/>
+        <UPDATED value="2020-10-05 21:37:31z"/>
+      </DATES>
+      <TEXT>sympathetic introspection </TEXT>
+    </ANSWER>
+    <ANSWER id="q5_a3" position="3">
+      <DATES>
+        <CREATED value="2020-10-05 21:37:31z"/>
+        <UPDATED value="2020-10-05 21:37:31z"/>
+      </DATES>
+      <TEXT>looking-glass self </TEXT>
+    </ANSWER>
+    <ANSWER id="q5_a4" position="4">
+      <DATES>
+        <CREATED value="2020-10-05 21:37:31z"/>
+        <UPDATED value="2020-10-05 21:37:31z"/>
+      </DATES>
+      <TEXT>primary group </TEXT>
+    </ANSWER>
+    <GRADABLE>
+      <FEEDBACK_WHEN_CORRECT>Correct!</FEEDBACK_WHEN_CORRECT>
+      <FEEDBACK_WHEN_INCORRECT>That's not correct!</FEEDBACK_WHEN_INCORRECT>
+      <CORRECTANSWER answer_id="q5_a2"/>
+    </GRADABLE>
+  </QUESTION_MULTIPLECHOICE>
+  <QUESTION_MULTIPLECHOICE id="q6">
+    <DATES>
+      <CREATED value="2020-10-05 21:37:31z"/>
+      <UPDATED value="2020-10-05 21:37:31z"/>
+    </DATES>
+    <BODY>
+      <TEXT>Erving Goffman used the concept of ______ to describe how individuals present themselves in favorable ways. </TEXT>
+      <FLAGS value="true">
+        <ISHTML value="true"/>
+        <ISNEWLINELITERAL/>
+      </FLAGS>
+    </BODY>
+    <ANSWER id="q6_a1" position="1">
+      <DATES>
+        <CREATED value="2020-10-05 21:37:31z"/>
+        <UPDATED value="2020-10-05 21:37:31z"/>
+      </DATES>
+      <TEXT>impression management </TEXT>
+    </ANSWER>
+    <ANSWER id="q6_a2" position="2">
+      <DATES>
+        <CREATED value="2020-10-05 21:37:31z"/>
+        <UPDATED value="2020-10-05 21:37:31z"/>
+      </DATES>
+      <TEXT>dramaturgy </TEXT>
+    </ANSWER>
+    <ANSWER id="q6_a3" position="3">
+      <DATES>
+        <CREATED value="2020-10-05 21:37:31z"/>
+        <UPDATED value="2020-10-05 21:37:31z"/>
+      </DATES>
+      <TEXT>frame analysis </TEXT>
+    </ANSWER>
+    <ANSWER id="q6_a4" position="4">
+      <DATES>
+        <CREATED value="2020-10-05 21:37:31z"/>
+        <UPDATED value="2020-10-05 21:37:31z"/>
+      </DATES>
+      <TEXT>role distancing </TEXT>
+    </ANSWER>
+    <GRADABLE>
+      <FEEDBACK_WHEN_CORRECT>Correct!</FEEDBACK_WHEN_CORRECT>
+      <FEEDBACK_WHEN_INCORRECT>That's not correct!</FEEDBACK_WHEN_INCORRECT>
+      <CORRECTANSWER answer_id="q6_a1"/>
+    </GRADABLE>
+  </QUESTION_MULTIPLECHOICE>
+  <QUESTION_MULTIPLECHOICE id="q7">
+    <DATES>
+      <CREATED value="2020-10-05 21:37:31z"/>
+      <UPDATED value="2020-10-05 21:37:31z"/>
+    </DATES>
+    <BODY>
+      <TEXT>Erving Goffman used the concept of ______ to describe how social life unfolds much like a staged play. </TEXT>
+      <FLAGS value="true">
+        <ISHTML value="true"/>
+        <ISNEWLINELITERAL/>
+      </FLAGS>
+    </BODY>
+    <ANSWER id="q7_a1" position="1">
+      <DATES>
+        <CREATED value="2020-10-05 21:37:31z"/>
+        <UPDATED value="2020-10-05 21:37:31z"/>
+      </DATES>
+      <TEXT>impression management </TEXT>
+    </ANSWER>
+    <ANSWER id="q7_a2" position="2">
+      <DATES>
+        <CREATED value="2020-10-05 21:37:31z"/>
+        <UPDATED value="2020-10-05 21:37:31z"/>
+      </DATES>
+      <TEXT>role distancing </TEXT>
+    </ANSWER>
+    <ANSWER id="q7_a3" position="3">
+      <DATES>
+        <CREATED value="2020-10-05 21:37:31z"/>
+        <UPDATED value="2020-10-05 21:37:31z"/>
+      </DATES>
+      <TEXT>frame analysis </TEXT>
+    </ANSWER>
+    <ANSWER id="q7_a4" position="4">
+      <DATES>
+        <CREATED value="2020-10-05 21:37:31z"/>
+        <UPDATED value="2020-10-05 21:37:31z"/>
+      </DATES>
+      <TEXT>dramaturgy </TEXT>
+    </ANSWER>
+    <GRADABLE>
+      <FEEDBACK_WHEN_CORRECT>Correct!</FEEDBACK_WHEN_CORRECT>
+      <FEEDBACK_WHEN_INCORRECT>That's not correct!</FEEDBACK_WHEN_INCORRECT>
+      <CORRECTANSWER answer_id="q7_a4"/>
+    </GRADABLE>
+  </QUESTION_MULTIPLECHOICE>
+  <QUESTION_MULTIPLECHOICE id="q8">
+    <DATES>
+      <CREATED value="2020-10-05 21:37:31z"/>
+      <UPDATED value="2020-10-05 21:37:31z"/>
+    </DATES>
+    <BODY>
+      <TEXT>Which of the following concepts did Erving Goffman use to describe the usually public parts of an interaction that unfold in a largely scripted way? </TEXT>
+      <FLAGS value="true">
+        <ISHTML value="true"/>
+        <ISNEWLINELITERAL/>
+      </FLAGS>
+    </BODY>
+    <ANSWER id="q8_a1" position="1">
+      <DATES>
+        <CREATED value="2020-10-05 21:37:31z"/>
+        <UPDATED value="2020-10-05 21:37:31z"/>
+      </DATES>
+      <TEXT>front stage </TEXT>
+    </ANSWER>
+    <ANSWER id="q8_a2" position="2">
+      <DATES>
+        <CREATED value="2020-10-05 21:37:31z"/>
+        <UPDATED value="2020-10-05 21:37:31z"/>
+      </DATES>
+      <TEXT>setting </TEXT>
+    </ANSWER>
+    <ANSWER id="q8_a3" position="3">
+      <DATES>
+        <CREATED value="2020-10-05 21:37:31z"/>
+        <UPDATED value="2020-10-05 21:37:31z"/>
+      </DATES>
+      <TEXT>appearance </TEXT>
+    </ANSWER>
+    <ANSWER id="q8_a4" position="4">
+      <DATES>
+        <CREATED value="2020-10-05 21:37:31z"/>
+        <UPDATED value="2020-10-05 21:37:31z"/>
+      </DATES>
+      <TEXT>manner </TEXT>
+    </ANSWER>
+    <GRADABLE>
+      <FEEDBACK_WHEN_CORRECT>Correct!</FEEDBACK_WHEN_CORRECT>
+      <FEEDBACK_WHEN_INCORRECT>That's not correct!</FEEDBACK_WHEN_INCORRECT>
+      <CORRECTANSWER answer_id="q8_a1"/>
+    </GRADABLE>
+  </QUESTION_MULTIPLECHOICE>
+  <QUESTION_MULTIPLECHOICE id="q9">
+    <DATES>
+      <CREATED value="2020-10-05 21:37:31z"/>
+      <UPDATED value="2020-10-05 21:37:31z"/>
+    </DATES>
+    <BODY>
+      <TEXT>Which of the following dramaturgical concepts did Erving Goffman use to describe the physical scene where actors perform? </TEXT>
+      <FLAGS value="true">
+        <ISHTML value="true"/>
+        <ISNEWLINELITERAL/>
+      </FLAGS>
+    </BODY>
+    <ANSWER id="q9_a1" position="1">
+      <DATES>
+        <CREATED value="2020-10-05 21:37:31z"/>
+        <UPDATED value="2020-10-05 21:37:31z"/>
+      </DATES>
+      <TEXT>front </TEXT>
+    </ANSWER>
+    <ANSWER id="q9_a2" position="2">
+      <DATES>
+        <CREATED value="2020-10-05 21:37:31z"/>
+        <UPDATED value="2020-10-05 21:37:31z"/>
+      </DATES>
+      <TEXT>setting </TEXT>
+    </ANSWER>
+    <ANSWER id="q9_a3" position="3">
+      <DATES>
+        <CREATED value="2020-10-05 21:37:31z"/>
+        <UPDATED value="2020-10-05 21:37:31z"/>
+      </DATES>
+      <TEXT>appearance </TEXT>
+    </ANSWER>
+    <ANSWER id="q9_a4" position="4">
+      <DATES>
+        <CREATED value="2020-10-05 21:37:31z"/>
+        <UPDATED value="2020-10-05 21:37:31z"/>
+      </DATES>
+      <TEXT>manner </TEXT>
+    </ANSWER>
+    <GRADABLE>
+      <FEEDBACK_WHEN_CORRECT>Correct!</FEEDBACK_WHEN_CORRECT>
+      <FEEDBACK_WHEN_INCORRECT>That's not correct!</FEEDBACK_WHEN_INCORRECT>
+      <CORRECTANSWER answer_id="q9_a2"/>
+    </GRADABLE>
+  </QUESTION_MULTIPLECHOICE>
+  <QUESTION_MULTIPLECHOICE id="q10">
+    <DATES>
+      <CREATED value="2020-10-05 21:37:31z"/>
+      <UPDATED value="2020-10-05 21:37:31z"/>
+    </DATES>
+    <BODY>
+      <TEXT>Which of the following dramaturgical concepts did Erving Goffman use to describe the demeanor actors use to show others what type of role they are playing? </TEXT>
+      <FLAGS value="true">
+        <ISHTML value="true"/>
+        <ISNEWLINELITERAL/>
+      </FLAGS>
+    </BODY>
+    <ANSWER id="q10_a1" position="1">
+      <DATES>
+        <CREATED value="2020-10-05 21:37:31z"/>
+        <UPDATED value="2020-10-05 21:37:31z"/>
+      </DATES>
+      <TEXT>front </TEXT>
+    </ANSWER>
+    <ANSWER id="q10_a2" position="2">
+      <DATES>
+        <CREATED value="2020-10-05 21:37:31z"/>
+        <UPDATED value="2020-10-05 21:37:31z"/>
+      </DATES>
+      <TEXT>setting </TEXT>
+    </ANSWER>
+    <ANSWER id="q10_a3" position="3">
+      <DATES>
+        <CREATED value="2020-10-05 21:37:31z"/>
+        <UPDATED value="2020-10-05 21:37:31z"/>
+      </DATES>
+      <TEXT>appearance </TEXT>
+    </ANSWER>
+    <ANSWER id="q10_a4" position="4">
+      <DATES>
+        <CREATED value="2020-10-05 21:37:31z"/>
+        <UPDATED value="2020-10-05 21:37:31z"/>
+      </DATES>
+      <TEXT>manner </TEXT>
+    </ANSWER>
+    <GRADABLE>
+      <FEEDBACK_WHEN_CORRECT>Correct!</FEEDBACK_WHEN_CORRECT>
+      <FEEDBACK_WHEN_INCORRECT>That's not correct!</FEEDBACK_WHEN_INCORRECT>
+      <CORRECTANSWER answer_id="q10_a4"/>
+    </GRADABLE>
+  </QUESTION_MULTIPLECHOICE>
+  <QUESTION_MULTIPLECHOICE id="q11">
+    <DATES>
+      <CREATED value="2020-10-05 21:37:31z"/>
+      <UPDATED value="2020-10-05 21:37:31z"/>
+    </DATES>
+    <BODY>
+      <TEXT>Anna is a maintenance worker at an airport. Her primary job is to clean restrooms. Anna feels embarrassed by her job, and she cleans the toilets in a careless and uninterested manner to show that she is above the work she is doing. Erving Goffman would term Anna’s behavior which of these? </TEXT>
+      <FLAGS value="true">
+        <ISHTML value="true"/>
+        <ISNEWLINELITERAL/>
+      </FLAGS>
+    </BODY>
+    <ANSWER id="q11_a1" position="1">
+      <DATES>
+        <CREATED value="2020-10-05 21:37:31z"/>
+        <UPDATED value="2020-10-05 21:37:31z"/>
+      </DATES>
+      <TEXT>role distance </TEXT>
+    </ANSWER>
+    <ANSWER id="q11_a2" position="2">
+      <DATES>
+        <CREATED value="2020-10-05 21:37:31z"/>
+        <UPDATED value="2020-10-05 21:37:31z"/>
+      </DATES>
+      <TEXT>setting </TEXT>
+    </ANSWER>
+    <ANSWER id="q11_a3" position="3">
+      <DATES>
+        <CREATED value="2020-10-05 21:37:31z"/>
+        <UPDATED value="2020-10-05 21:37:31z"/>
+      </DATES>
+      <TEXT>the self </TEXT>
+    </ANSWER>
+    <ANSWER id="q11_a4" position="4">
+      <DATES>
+        <CREATED value="2020-10-05 21:37:31z"/>
+        <UPDATED value="2020-10-05 21:37:31z"/>
+      </DATES>
+      <TEXT>personal front </TEXT>
+    </ANSWER>
+    <GRADABLE>
+      <FEEDBACK_WHEN_CORRECT>Correct!</FEEDBACK_WHEN_CORRECT>
+      <FEEDBACK_WHEN_INCORRECT>That's not correct!</FEEDBACK_WHEN_INCORRECT>
+      <CORRECTANSWER answer_id="q11_a1"/>
+    </GRADABLE>
+  </QUESTION_MULTIPLECHOICE>
+  <QUESTION_MULTIPLECHOICE id="q12">
+    <DATES>
+      <CREATED value="2020-10-05 21:37:31z"/>
+      <UPDATED value="2020-10-05 21:37:31z"/>
+    </DATES>
+    <BODY>
+      <TEXT>According to Arlie Hochschild, which of the following is associated with emotion management? </TEXT>
+      <FLAGS value="true">
+        <ISHTML value="true"/>
+        <ISNEWLINELITERAL/>
+      </FLAGS>
+    </BODY>
+    <ANSWER id="q12_a1" position="1">
+      <DATES>
+        <CREATED value="2020-10-05 21:37:31z"/>
+        <UPDATED value="2020-10-05 21:37:31z"/>
+      </DATES>
+      <TEXT>People experience appropriate emotions even when unaware of what those socially expected feelings are. </TEXT>
+    </ANSWER>
+    <ANSWER id="q12_a2" position="2">
+      <DATES>
+        <CREATED value="2020-10-05 21:37:31z"/>
+        <UPDATED value="2020-10-05 21:37:31z"/>
+      </DATES>
+      <TEXT>People create the social conditions that arouse feelings. </TEXT>
+    </ANSWER>
+    <ANSWER id="q12_a3" position="3">
+      <DATES>
+        <CREATED value="2020-10-05 21:37:31z"/>
+        <UPDATED value="2020-10-05 21:37:31z"/>
+      </DATES>
+      <TEXT>People forget past emotions. </TEXT>
+    </ANSWER>
+    <ANSWER id="q12_a4" position="4">
+      <DATES>
+        <CREATED value="2020-10-05 21:37:31z"/>
+        <UPDATED value="2020-10-05 21:37:31z"/>
+      </DATES>
+      <TEXT>People perform the appropriate emotions even when they do not deeply feel them. </TEXT>
+    </ANSWER>
+    <GRADABLE>
+      <FEEDBACK_WHEN_CORRECT>Correct!</FEEDBACK_WHEN_CORRECT>
+      <FEEDBACK_WHEN_INCORRECT>That's not correct!</FEEDBACK_WHEN_INCORRECT>
+      <CORRECTANSWER answer_id="q12_a4"/>
+    </GRADABLE>
+  </QUESTION_MULTIPLECHOICE>
+  <QUESTION_MULTIPLECHOICE id="q13">
+    <DATES>
+      <CREATED value="2020-10-05 21:37:31z"/>
+      <UPDATED value="2020-10-05 21:37:31z"/>
+    </DATES>
+    <BODY>
+      <TEXT>What is the term to describe a performance in which a person manipulates facial expressions and tone of voice to convey an emotional expression to someone? </TEXT>
+      <FLAGS value="true">
+        <ISHTML value="true"/>
+        <ISNEWLINELITERAL/>
+      </FLAGS>
+    </BODY>
+    <ANSWER id="q13_a1" position="1">
+      <DATES>
+        <CREATED value="2020-10-05 21:37:31z"/>
+        <UPDATED value="2020-10-05 21:37:31z"/>
+      </DATES>
+      <TEXT>deep acting </TEXT>
+    </ANSWER>
+    <ANSWER id="q13_a2" position="2">
+      <DATES>
+        <CREATED value="2020-10-05 21:37:31z"/>
+        <UPDATED value="2020-10-05 21:37:31z"/>
+      </DATES>
+      <TEXT>surface action </TEXT>
+    </ANSWER>
+    <ANSWER id="q13_a3" position="3">
+      <DATES>
+        <CREATED value="2020-10-05 21:37:31z"/>
+        <UPDATED value="2020-10-05 21:37:31z"/>
+      </DATES>
+      <TEXT>ethnomethodology </TEXT>
+    </ANSWER>
+    <ANSWER id="q13_a4" position="4">
+      <DATES>
+        <CREATED value="2020-10-05 21:37:31z"/>
+        <UPDATED value="2020-10-05 21:37:31z"/>
+      </DATES>
+      <TEXT>emotion memory </TEXT>
+    </ANSWER>
+    <GRADABLE>
+      <FEEDBACK_WHEN_CORRECT>Correct!</FEEDBACK_WHEN_CORRECT>
+      <FEEDBACK_WHEN_INCORRECT>That's not correct!</FEEDBACK_WHEN_INCORRECT>
+      <CORRECTANSWER answer_id="q13_a2"/>
+    </GRADABLE>
+  </QUESTION_MULTIPLECHOICE>
+  <QUESTION_MULTIPLECHOICE id="q14">
+    <DATES>
+      <CREATED value="2020-10-05 21:37:31z"/>
+      <UPDATED value="2020-10-05 21:37:31z"/>
+    </DATES>
+    <BODY>
+      <TEXT>What is the term to describe a performance in which a person recalls personal emotional experiences in order to create an authentic emotional performance? </TEXT>
+      <FLAGS value="true">
+        <ISHTML value="true"/>
+        <ISNEWLINELITERAL/>
+      </FLAGS>
+    </BODY>
+    <ANSWER id="q14_a1" position="1">
+      <DATES>
+        <CREATED value="2020-10-05 21:37:31z"/>
+        <UPDATED value="2020-10-05 21:37:31z"/>
+      </DATES>
+      <TEXT>deep acting </TEXT>
+    </ANSWER>
+    <ANSWER id="q14_a2" position="2">
+      <DATES>
+        <CREATED value="2020-10-05 21:37:31z"/>
+        <UPDATED value="2020-10-05 21:37:31z"/>
+      </DATES>
+      <TEXT>surface action </TEXT>
+    </ANSWER>
+    <ANSWER id="q14_a3" position="3">
+      <DATES>
+        <CREATED value="2020-10-05 21:37:31z"/>
+        <UPDATED value="2020-10-05 21:37:31z"/>
+      </DATES>
+      <TEXT>ethnomethodology </TEXT>
+    </ANSWER>
+    <ANSWER id="q14_a4" position="4">
+      <DATES>
+        <CREATED value="2020-10-05 21:37:31z"/>
+        <UPDATED value="2020-10-05 21:37:31z"/>
+      </DATES>
+      <TEXT>emotion memory </TEXT>
+    </ANSWER>
+    <GRADABLE>
+      <FEEDBACK_WHEN_CORRECT>Correct!</FEEDBACK_WHEN_CORRECT>
+      <FEEDBACK_WHEN_INCORRECT>That's not correct!</FEEDBACK_WHEN_INCORRECT>
+      <CORRECTANSWER answer_id="q14_a1"/>
+    </GRADABLE>
+  </QUESTION_MULTIPLECHOICE>
+  <QUESTION_MULTIPLECHOICE id="q15">
+    <DATES>
+      <CREATED value="2020-10-05 21:37:31z"/>
+      <UPDATED value="2020-10-05 21:37:31z"/>
+    </DATES>
+    <BODY>
+      <TEXT>What is the term for the study of ordinary members of society in the everyday situations in which they find themselves and ways in which they use common sense knowledge in those situations? </TEXT>
+      <FLAGS value="true">
+        <ISHTML value="true"/>
+        <ISNEWLINELITERAL/>
+      </FLAGS>
+    </BODY>
+    <ANSWER id="q15_a1" position="1">
+      <DATES>
+        <CREATED value="2020-10-05 21:37:31z"/>
+        <UPDATED value="2020-10-05 21:37:31z"/>
+      </DATES>
+      <TEXT>dramaturgy </TEXT>
+    </ANSWER>
+    <ANSWER id="q15_a2" position="2">
+      <DATES>
+        <CREATED value="2020-10-05 21:37:31z"/>
+        <UPDATED value="2020-10-05 21:37:31z"/>
+      </DATES>
+      <TEXT>ethnomethodology </TEXT>
+    </ANSWER>
+    <ANSWER id="q15_a3" position="3">
+      <DATES>
+        <CREATED value="2020-10-05 21:37:31z"/>
+        <UPDATED value="2020-10-05 21:37:31z"/>
+      </DATES>
+      <TEXT>critical theory </TEXT>
+    </ANSWER>
+    <ANSWER id="q15_a4" position="4">
+      <DATES>
+        <CREATED value="2020-10-05 21:37:31z"/>
+        <UPDATED value="2020-10-05 21:37:31z"/>
+      </DATES>
+      <TEXT>feminism </TEXT>
+    </ANSWER>
+    <GRADABLE>
+      <FEEDBACK_WHEN_CORRECT>Correct!</FEEDBACK_WHEN_CORRECT>
+      <FEEDBACK_WHEN_INCORRECT>That's not correct!</FEEDBACK_WHEN_INCORRECT>
+      <CORRECTANSWER answer_id="q15_a2"/>
+    </GRADABLE>
+  </QUESTION_MULTIPLECHOICE>
+  <QUESTION_MULTIPLECHOICE id="q16">
+    <DATES>
+      <CREATED value="2020-10-05 21:37:31z"/>
+      <UPDATED value="2020-10-05 21:37:31z"/>
+    </DATES>
+    <BODY>
+      <TEXT>Ethnomethodological accounting practices are a process of ______. </TEXT>
+      <FLAGS value="true">
+        <ISHTML value="true"/>
+        <ISNEWLINELITERAL/>
+      </FLAGS>
+    </BODY>
+    <ANSWER id="q16_a1" position="1">
+      <DATES>
+        <CREATED value="2020-10-05 21:37:31z"/>
+        <UPDATED value="2020-10-05 21:37:31z"/>
+      </DATES>
+      <TEXT>explaining situations </TEXT>
+    </ANSWER>
+    <ANSWER id="q16_a2" position="2">
+      <DATES>
+        <CREATED value="2020-10-05 21:37:31z"/>
+        <UPDATED value="2020-10-05 21:37:31z"/>
+      </DATES>
+      <TEXT>accepting or rejecting explanations of situations </TEXT>
+    </ANSWER>
+    <ANSWER id="q16_a3" position="3">
+      <DATES>
+        <CREATED value="2020-10-05 21:37:31z"/>
+        <UPDATED value="2020-10-05 21:37:31z"/>
+      </DATES>
+      <TEXT>judging the explanations of situations </TEXT>
+    </ANSWER>
+    <ANSWER id="q16_a4" position="4">
+      <DATES>
+        <CREATED value="2020-10-05 21:37:31z"/>
+        <UPDATED value="2020-10-05 21:37:31z"/>
+      </DATES>
+      <TEXT>remaining indifferent about the explanations of situations </TEXT>
+    </ANSWER>
+    <GRADABLE>
+      <FEEDBACK_WHEN_CORRECT>Correct!</FEEDBACK_WHEN_CORRECT>
+      <FEEDBACK_WHEN_INCORRECT>That's not correct!</FEEDBACK_WHEN_INCORRECT>
+      <CORRECTANSWER answer_id="q16_a2"/>
+    </GRADABLE>
+  </QUESTION_MULTIPLECHOICE>
+  <QUESTION_MULTIPLECHOICE id="q17">
+    <DATES>
+      <CREATED value="2020-10-05 21:37:31z"/>
+      <UPDATED value="2020-10-05 21:37:31z"/>
+    </DATES>
+    <BODY>
+      <TEXT>According to ethnomethodologists, accounts are the ______. </TEXT>
+      <FLAGS value="true">
+        <ISHTML value="true"/>
+        <ISNEWLINELITERAL/>
+      </FLAGS>
+    </BODY>
+    <ANSWER id="q17_a1" position="1">
+      <DATES>
+        <CREATED value="2020-10-05 21:37:31z"/>
+        <UPDATED value="2020-10-05 21:37:31z"/>
+      </DATES>
+      <TEXT>capital earned from interactions </TEXT>
+    </ANSWER>
+    <ANSWER id="q17_a2" position="2">
+      <DATES>
+        <CREATED value="2020-10-05 21:37:31z"/>
+        <UPDATED value="2020-10-05 21:37:31z"/>
+      </DATES>
+      <TEXT>dividends paid out by macro-level structures </TEXT>
+    </ANSWER>
+    <ANSWER id="q17_a3" position="3">
+      <DATES>
+        <CREATED value="2020-10-05 21:37:31z"/>
+        <UPDATED value="2020-10-05 21:37:31z"/>
+      </DATES>
+      <TEXT>ways actors explain specific situations </TEXT>
+    </ANSWER>
+    <ANSWER id="q17_a4" position="4">
+      <DATES>
+        <CREATED value="2020-10-05 21:37:31z"/>
+        <UPDATED value="2020-10-05 21:37:31z"/>
+      </DATES>
+      <TEXT>declarations of membership we hold in organizations </TEXT>
+    </ANSWER>
+    <GRADABLE>
+      <FEEDBACK_WHEN_CORRECT>Correct!</FEEDBACK_WHEN_CORRECT>
+      <FEEDBACK_WHEN_INCORRECT>That's not correct!</FEEDBACK_WHEN_INCORRECT>
+      <CORRECTANSWER answer_id="q17_a3"/>
+    </GRADABLE>
+  </QUESTION_MULTIPLECHOICE>
+  <QUESTION_MULTIPLECHOICE id="q18">
+    <DATES>
+      <CREATED value="2020-10-05 21:37:31z"/>
+      <UPDATED value="2020-10-05 21:37:31z"/>
+    </DATES>
+    <BODY>
+      <TEXT>Ethnomethodological accounting is a process of ______. </TEXT>
+      <FLAGS value="true">
+        <ISHTML value="true"/>
+        <ISNEWLINELITERAL/>
+      </FLAGS>
+    </BODY>
+    <ANSWER id="q18_a1" position="1">
+      <DATES>
+        <CREATED value="2020-10-05 21:37:31z"/>
+        <UPDATED value="2020-10-05 21:37:31z"/>
+      </DATES>
+      <TEXT>explaining situations to make sense of the world </TEXT>
+    </ANSWER>
+    <ANSWER id="q18_a2" position="2">
+      <DATES>
+        <CREATED value="2020-10-05 21:37:31z"/>
+        <UPDATED value="2020-10-05 21:37:31z"/>
+      </DATES>
+      <TEXT>accepting or rejecting explanations of situations </TEXT>
+    </ANSWER>
+    <ANSWER id="q18_a3" position="3">
+      <DATES>
+        <CREATED value="2020-10-05 21:37:31z"/>
+        <UPDATED value="2020-10-05 21:37:31z"/>
+      </DATES>
+      <TEXT>judging the explanations of explanations </TEXT>
+    </ANSWER>
+    <ANSWER id="q18_a4" position="4">
+      <DATES>
+        <CREATED value="2020-10-05 21:37:31z"/>
+        <UPDATED value="2020-10-05 21:37:31z"/>
+      </DATES>
+      <TEXT>remaining indifferent about the explanations of situations </TEXT>
+    </ANSWER>
+    <GRADABLE>
+      <FEEDBACK_WHEN_CORRECT>Correct!</FEEDBACK_WHEN_CORRECT>
+      <FEEDBACK_WHEN_INCORRECT>That's not correct!</FEEDBACK_WHEN_INCORRECT>
+      <CORRECTANSWER answer_id="q18_a1"/>
+    </GRADABLE>
+  </QUESTION_MULTIPLECHOICE>
+  <QUESTION_MULTIPLECHOICE id="q19">
+    <DATES>
+      <CREATED value="2020-10-05 21:37:31z"/>
+      <UPDATED value="2020-10-05 21:37:31z"/>
+    </DATES>
+    <BODY>
+      <TEXT>Which of the following describes ethnomethodological breaching experiments? </TEXT>
+      <FLAGS value="true">
+        <ISHTML value="true"/>
+        <ISNEWLINELITERAL/>
+      </FLAGS>
+    </BODY>
+    <ANSWER id="q19_a1" position="1">
+      <DATES>
+        <CREATED value="2020-10-05 21:37:31z"/>
+        <UPDATED value="2020-10-05 21:37:31z"/>
+      </DATES>
+      <TEXT>examinations of casual settings like the home </TEXT>
+    </ANSWER>
+    <ANSWER id="q19_a2" position="2">
+      <DATES>
+        <CREATED value="2020-10-05 21:37:31z"/>
+        <UPDATED value="2020-10-05 21:37:31z"/>
+      </DATES>
+      <TEXT>examinations of how people perform official tasks, thereby constituting social structures, formal rules, and official procedures </TEXT>
+    </ANSWER>
+    <ANSWER id="q19_a3" position="3">
+      <DATES>
+        <CREATED value="2020-10-05 21:37:31z"/>
+        <UPDATED value="2020-10-05 21:37:31z"/>
+      </DATES>
+      <TEXT>examinations of social reality through normative violations </TEXT>
+    </ANSWER>
+    <ANSWER id="q19_a4" position="4">
+      <DATES>
+        <CREATED value="2020-10-05 21:37:31z"/>
+        <UPDATED value="2020-10-05 21:37:31z"/>
+      </DATES>
+      <TEXT>examinations of how interactions are accomplished utilizing internal constraints </TEXT>
+    </ANSWER>
+    <GRADABLE>
+      <FEEDBACK_WHEN_CORRECT>Correct!</FEEDBACK_WHEN_CORRECT>
+      <FEEDBACK_WHEN_INCORRECT>That's not correct!</FEEDBACK_WHEN_INCORRECT>
+      <CORRECTANSWER answer_id="q19_a3"/>
+    </GRADABLE>
+  </QUESTION_MULTIPLECHOICE>
+  <QUESTION_MULTIPLECHOICE id="q20">
+    <DATES>
+      <CREATED value="2020-10-05 21:37:31z"/>
+      <UPDATED value="2020-10-05 21:37:31z"/>
+    </DATES>
+    <BODY>
+      <TEXT>Which theory focuses on decision-making in relationships utilizing an assumption of rational actors? </TEXT>
+      <FLAGS value="true">
+        <ISHTML value="true"/>
+        <ISNEWLINELITERAL/>
+      </FLAGS>
+    </BODY>
+    <ANSWER id="q20_a1" position="1">
+      <DATES>
+        <CREATED value="2020-10-05 21:37:31z"/>
+        <UPDATED value="2020-10-05 21:37:31z"/>
+      </DATES>
+      <TEXT>exchange theory </TEXT>
+    </ANSWER>
+    <ANSWER id="q20_a2" position="2">
+      <DATES>
+        <CREATED value="2020-10-05 21:37:31z"/>
+        <UPDATED value="2020-10-05 21:37:31z"/>
+      </DATES>
+      <TEXT>rational choice theory </TEXT>
+    </ANSWER>
+    <ANSWER id="q20_a3" position="3">
+      <DATES>
+        <CREATED value="2020-10-05 21:37:31z"/>
+        <UPDATED value="2020-10-05 21:37:31z"/>
+      </DATES>
+      <TEXT>network theory </TEXT>
+    </ANSWER>
+    <ANSWER id="q20_a4" position="4">
+      <DATES>
+        <CREATED value="2020-10-05 21:37:31z"/>
+        <UPDATED value="2020-10-05 21:37:31z"/>
+      </DATES>
+      <TEXT>positivism </TEXT>
+    </ANSWER>
+    <GRADABLE>
+      <FEEDBACK_WHEN_CORRECT>Correct!</FEEDBACK_WHEN_CORRECT>
+      <FEEDBACK_WHEN_INCORRECT>That's not correct!</FEEDBACK_WHEN_INCORRECT>
+      <CORRECTANSWER answer_id="q20_a1"/>
+    </GRADABLE>
+  </QUESTION_MULTIPLECHOICE>
+  <QUESTION_MULTIPLECHOICE id="q21">
+    <DATES>
+      <CREATED value="2020-10-05 21:37:31z"/>
+      <UPDATED value="2020-10-05 21:37:31z"/>
+    </DATES>
+    <BODY>
+      <TEXT>George Homan’s exchange theory is based primarily on which of the following? </TEXT>
+      <FLAGS value="true">
+        <ISHTML value="true"/>
+        <ISNEWLINELITERAL/>
+      </FLAGS>
+    </BODY>
+    <ANSWER id="q21_a1" position="1">
+      <DATES>
+        <CREATED value="2020-10-05 21:37:31z"/>
+        <UPDATED value="2020-10-05 21:37:31z"/>
+      </DATES>
+      <TEXT>conflict theories </TEXT>
+    </ANSWER>
+    <ANSWER id="q21_a2" position="2">
+      <DATES>
+        <CREATED value="2020-10-05 21:37:31z"/>
+        <UPDATED value="2020-10-05 21:37:31z"/>
+      </DATES>
+      <TEXT>behaviorism </TEXT>
+    </ANSWER>
+    <ANSWER id="q21_a3" position="3">
+      <DATES>
+        <CREATED value="2020-10-05 21:37:31z"/>
+        <UPDATED value="2020-10-05 21:37:31z"/>
+      </DATES>
+      <TEXT>ethnomethodology </TEXT>
+    </ANSWER>
+    <ANSWER id="q21_a4" position="4">
+      <DATES>
+        <CREATED value="2020-10-05 21:37:31z"/>
+        <UPDATED value="2020-10-05 21:37:31z"/>
+      </DATES>
+      <TEXT>symbolic Interactionism </TEXT>
+    </ANSWER>
+    <GRADABLE>
+      <FEEDBACK_WHEN_CORRECT>Correct!</FEEDBACK_WHEN_CORRECT>
+      <FEEDBACK_WHEN_INCORRECT>That's not correct!</FEEDBACK_WHEN_INCORRECT>
+      <CORRECTANSWER answer_id="q21_a2"/>
+    </GRADABLE>
+  </QUESTION_MULTIPLECHOICE>
+  <QUESTION_MULTIPLECHOICE id="q22">
+    <DATES>
+      <CREATED value="2020-10-05 21:37:31z"/>
+      <UPDATED value="2020-10-05 21:37:31z"/>
+    </DATES>
+    <BODY>
+      <TEXT>George Homans’s ______ proposition refers to how people are more likely to engage in behaviors they have been rewarded for in the past. </TEXT>
+      <FLAGS value="true">
+        <ISHTML value="true"/>
+        <ISNEWLINELITERAL/>
+      </FLAGS>
+    </BODY>
+    <ANSWER id="q22_a1" position="1">
+      <DATES>
+        <CREATED value="2020-10-05 21:37:31z"/>
+        <UPDATED value="2020-10-05 21:37:31z"/>
+      </DATES>
+      <TEXT>success </TEXT>
+    </ANSWER>
+    <ANSWER id="q22_a2" position="2">
+      <DATES>
+        <CREATED value="2020-10-05 21:37:31z"/>
+        <UPDATED value="2020-10-05 21:37:31z"/>
+      </DATES>
+      <TEXT>stimulus </TEXT>
+    </ANSWER>
+    <ANSWER id="q22_a3" position="3">
+      <DATES>
+        <CREATED value="2020-10-05 21:37:31z"/>
+        <UPDATED value="2020-10-05 21:37:31z"/>
+      </DATES>
+      <TEXT>value </TEXT>
+    </ANSWER>
+    <ANSWER id="q22_a4" position="4">
+      <DATES>
+        <CREATED value="2020-10-05 21:37:31z"/>
+        <UPDATED value="2020-10-05 21:37:31z"/>
+      </DATES>
+      <TEXT>rationality </TEXT>
+    </ANSWER>
+    <GRADABLE>
+      <FEEDBACK_WHEN_CORRECT>Correct!</FEEDBACK_WHEN_CORRECT>
+      <FEEDBACK_WHEN_INCORRECT>That's not correct!</FEEDBACK_WHEN_INCORRECT>
+      <CORRECTANSWER answer_id="q22_a1"/>
+    </GRADABLE>
+  </QUESTION_MULTIPLECHOICE>
+  <QUESTION_MULTIPLECHOICE id="q23">
+    <DATES>
+      <CREATED value="2020-10-05 21:37:31z"/>
+      <UPDATED value="2020-10-05 21:37:31z"/>
+    </DATES>
+    <BODY>
+      <TEXT>George Homans’s ______ proposition explains how actors learn to react to things in their environment in ways that secure rewards. </TEXT>
+      <FLAGS value="true">
+        <ISHTML value="true"/>
+        <ISNEWLINELITERAL/>
+      </FLAGS>
+    </BODY>
+    <ANSWER id="q23_a1" position="1">
+      <DATES>
+        <CREATED value="2020-10-05 21:37:31z"/>
+        <UPDATED value="2020-10-05 21:37:31z"/>
+      </DATES>
+      <TEXT>success </TEXT>
+    </ANSWER>
+    <ANSWER id="q23_a2" position="2">
+      <DATES>
+        <CREATED value="2020-10-05 21:37:31z"/>
+        <UPDATED value="2020-10-05 21:37:31z"/>
+      </DATES>
+      <TEXT>stimulus </TEXT>
+    </ANSWER>
+    <ANSWER id="q23_a3" position="3">
+      <DATES>
+        <CREATED value="2020-10-05 21:37:31z"/>
+        <UPDATED value="2020-10-05 21:37:31z"/>
+      </DATES>
+      <TEXT>value </TEXT>
+    </ANSWER>
+    <ANSWER id="q23_a4" position="4">
+      <DATES>
+        <CREATED value="2020-10-05 21:37:31z"/>
+        <UPDATED value="2020-10-05 21:37:31z"/>
+      </DATES>
+      <TEXT>rationality </TEXT>
+    </ANSWER>
+    <GRADABLE>
+      <FEEDBACK_WHEN_CORRECT>Correct!</FEEDBACK_WHEN_CORRECT>
+      <FEEDBACK_WHEN_INCORRECT>That's not correct!</FEEDBACK_WHEN_INCORRECT>
+      <CORRECTANSWER answer_id="q23_a2"/>
+    </GRADABLE>
+  </QUESTION_MULTIPLECHOICE>
+  <QUESTION_MULTIPLECHOICE id="q24">
+    <DATES>
+      <CREATED value="2020-10-05 21:37:31z"/>
+      <UPDATED value="2020-10-05 21:37:31z"/>
+    </DATES>
+    <BODY>
+      <TEXT>George Homans’s ______ proposition explains how actors engage in behaviors that bring about the most coveted and desirable rewards. </TEXT>
+      <FLAGS value="true">
+        <ISHTML value="true"/>
+        <ISNEWLINELITERAL/>
+      </FLAGS>
+    </BODY>
+    <ANSWER id="q24_a1" position="1">
+      <DATES>
+        <CREATED value="2020-10-05 21:37:31z"/>
+        <UPDATED value="2020-10-05 21:37:31z"/>
+      </DATES>
+      <TEXT>success </TEXT>
+    </ANSWER>
+    <ANSWER id="q24_a2" position="2">
+      <DATES>
+        <CREATED value="2020-10-05 21:37:31z"/>
+        <UPDATED value="2020-10-05 21:37:31z"/>
+      </DATES>
+      <TEXT>stimulus </TEXT>
+    </ANSWER>
+    <ANSWER id="q24_a3" position="3">
+      <DATES>
+        <CREATED value="2020-10-05 21:37:31z"/>
+        <UPDATED value="2020-10-05 21:37:31z"/>
+      </DATES>
+      <TEXT>value </TEXT>
+    </ANSWER>
+    <ANSWER id="q24_a4" position="4">
+      <DATES>
+        <CREATED value="2020-10-05 21:37:31z"/>
+        <UPDATED value="2020-10-05 21:37:31z"/>
+      </DATES>
+      <TEXT>rationality </TEXT>
+    </ANSWER>
+    <GRADABLE>
+      <FEEDBACK_WHEN_CORRECT>Correct!</FEEDBACK_WHEN_CORRECT>
+      <FEEDBACK_WHEN_INCORRECT>That's not correct!</FEEDBACK_WHEN_INCORRECT>
+      <CORRECTANSWER answer_id="q24_a3"/>
+    </GRADABLE>
+  </QUESTION_MULTIPLECHOICE>
+  <QUESTION_MULTIPLECHOICE id="q25">
+    <DATES>
+      <CREATED value="2020-10-05 21:37:31z"/>
+      <UPDATED value="2020-10-05 21:37:31z"/>
+    </DATES>
+    <BODY>
+      <TEXT>George Homans’s ______ proposition explains why the more often an actor is rewarded for a behavior to the less valuable, those rewards become. </TEXT>
+      <FLAGS value="true">
+        <ISHTML value="true"/>
+        <ISNEWLINELITERAL/>
+      </FLAGS>
+    </BODY>
+    <ANSWER id="q25_a1" position="1">
+      <DATES>
+        <CREATED value="2020-10-05 21:37:31z"/>
+        <UPDATED value="2020-10-05 21:37:31z"/>
+      </DATES>
+      <TEXT>success–stimulus </TEXT>
+    </ANSWER>
+    <ANSWER id="q25_a2" position="2">
+      <DATES>
+        <CREATED value="2020-10-05 21:37:31z"/>
+        <UPDATED value="2020-10-05 21:37:31z"/>
+      </DATES>
+      <TEXT>value–rational </TEXT>
+    </ANSWER>
+    <ANSWER id="q25_a3" position="3">
+      <DATES>
+        <CREATED value="2020-10-05 21:37:31z"/>
+        <UPDATED value="2020-10-05 21:37:31z"/>
+      </DATES>
+      <TEXT>deprivation–satiation </TEXT>
+    </ANSWER>
+    <ANSWER id="q25_a4" position="4">
+      <DATES>
+        <CREATED value="2020-10-05 21:37:31z"/>
+        <UPDATED value="2020-10-05 21:37:31z"/>
+      </DATES>
+      <TEXT>aggression–approval </TEXT>
+    </ANSWER>
+    <GRADABLE>
+      <FEEDBACK_WHEN_CORRECT>Correct!</FEEDBACK_WHEN_CORRECT>
+      <FEEDBACK_WHEN_INCORRECT>That's not correct!</FEEDBACK_WHEN_INCORRECT>
+      <CORRECTANSWER answer_id="q25_a3"/>
+    </GRADABLE>
+  </QUESTION_MULTIPLECHOICE>
+  <QUESTION_MULTIPLECHOICE id="q26">
+    <DATES>
+      <CREATED value="2020-10-05 21:37:31z"/>
+      <UPDATED value="2020-10-05 21:37:31z"/>
+    </DATES>
+    <BODY>
+      <TEXT>George Homans’s ______ propositions explains how anger is generated via unexpected punishments or reduced rewards. </TEXT>
+      <FLAGS value="true">
+        <ISHTML value="true"/>
+        <ISNEWLINELITERAL/>
+      </FLAGS>
+    </BODY>
+    <ANSWER id="q26_a1" position="1">
+      <DATES>
+        <CREATED value="2020-10-05 21:37:31z"/>
+        <UPDATED value="2020-10-05 21:37:31z"/>
+      </DATES>
+      <TEXT>success–stimulus </TEXT>
+    </ANSWER>
+    <ANSWER id="q26_a2" position="2">
+      <DATES>
+        <CREATED value="2020-10-05 21:37:31z"/>
+        <UPDATED value="2020-10-05 21:37:31z"/>
+      </DATES>
+      <TEXT>value–rational </TEXT>
+    </ANSWER>
+    <ANSWER id="q26_a3" position="3">
+      <DATES>
+        <CREATED value="2020-10-05 21:37:31z"/>
+        <UPDATED value="2020-10-05 21:37:31z"/>
+      </DATES>
+      <TEXT>deprivation–satiation </TEXT>
+    </ANSWER>
+    <ANSWER id="q26_a4" position="4">
+      <DATES>
+        <CREATED value="2020-10-05 21:37:31z"/>
+        <UPDATED value="2020-10-05 21:37:31z"/>
+      </DATES>
+      <TEXT>aggression–approval </TEXT>
+    </ANSWER>
+    <GRADABLE>
+      <FEEDBACK_WHEN_CORRECT>Correct!</FEEDBACK_WHEN_CORRECT>
+      <FEEDBACK_WHEN_INCORRECT>That's not correct!</FEEDBACK_WHEN_INCORRECT>
+      <CORRECTANSWER answer_id="q26_a4"/>
+    </GRADABLE>
+  </QUESTION_MULTIPLECHOICE>
+  <QUESTION_MULTIPLECHOICE id="q27">
+    <DATES>
+      <CREATED value="2020-10-05 21:37:31z"/>
+      <UPDATED value="2020-10-05 21:37:31z"/>
+    </DATES>
+    <BODY>
+      <TEXT>Which theory is most focused on individual decision-making? </TEXT>
+      <FLAGS value="true">
+        <ISHTML value="true"/>
+        <ISNEWLINELITERAL/>
+      </FLAGS>
+    </BODY>
+    <ANSWER id="q27_a1" position="1">
+      <DATES>
+        <CREATED value="2020-10-05 21:37:31z"/>
+        <UPDATED value="2020-10-05 21:37:31z"/>
+      </DATES>
+      <TEXT>exchange theory </TEXT>
+    </ANSWER>
+    <ANSWER id="q27_a2" position="2">
+      <DATES>
+        <CREATED value="2020-10-05 21:37:31z"/>
+        <UPDATED value="2020-10-05 21:37:31z"/>
+      </DATES>
+      <TEXT>rational choice theory </TEXT>
+    </ANSWER>
+    <ANSWER id="q27_a3" position="3">
+      <DATES>
+        <CREATED value="2020-10-05 21:37:31z"/>
+        <UPDATED value="2020-10-05 21:37:31z"/>
+      </DATES>
+      <TEXT>network theory </TEXT>
+    </ANSWER>
+    <ANSWER id="q27_a4" position="4">
+      <DATES>
+        <CREATED value="2020-10-05 21:37:31z"/>
+        <UPDATED value="2020-10-05 21:37:31z"/>
+      </DATES>
+      <TEXT>positivism </TEXT>
+    </ANSWER>
+    <GRADABLE>
+      <FEEDBACK_WHEN_CORRECT>Correct!</FEEDBACK_WHEN_CORRECT>
+      <FEEDBACK_WHEN_INCORRECT>That's not correct!</FEEDBACK_WHEN_INCORRECT>
+      <CORRECTANSWER answer_id="q27_a2"/>
+    </GRADABLE>
+  </QUESTION_MULTIPLECHOICE>
+  <QUESTION_MULTIPLECHOICE id="q28">
+    <DATES>
+      <CREATED value="2020-10-05 21:37:31z"/>
+      <UPDATED value="2020-10-05 21:37:31z"/>
+    </DATES>
+    <BODY>
+      <TEXT>How do rational choice theorists describe the ways opportunity costs constrain actions? </TEXT>
+      <FLAGS value="true">
+        <ISHTML value="true"/>
+        <ISNEWLINELITERAL/>
+      </FLAGS>
+    </BODY>
+    <ANSWER id="q28_a1" position="1">
+      <DATES>
+        <CREATED value="2020-10-05 21:37:31z"/>
+        <UPDATED value="2020-10-05 21:37:31z"/>
+      </DATES>
+      <TEXT>Actors must consider the scarcity of resources. </TEXT>
+    </ANSWER>
+    <ANSWER id="q28_a2" position="2">
+      <DATES>
+        <CREATED value="2020-10-05 21:37:31z"/>
+        <UPDATED value="2020-10-05 21:37:31z"/>
+      </DATES>
+      <TEXT>Actors must consider the feasibility of actions as prescribed or prohibited by social institutions. </TEXT>
+    </ANSWER>
+    <ANSWER id="q28_a3" position="3">
+      <DATES>
+        <CREATED value="2020-10-05 21:37:31z"/>
+        <UPDATED value="2020-10-05 21:37:31z"/>
+      </DATES>
+      <TEXT>A consideration of the cumulative social effects of individual actors should be considered. </TEXT>
+    </ANSWER>
+    <ANSWER id="q28_a4" position="4">
+      <DATES>
+        <CREATED value="2020-10-05 21:37:31z"/>
+        <UPDATED value="2020-10-05 21:37:31z"/>
+      </DATES>
+      <TEXT>A consideration of available information (or lack thereof) should be considered. </TEXT>
+    </ANSWER>
+    <GRADABLE>
+      <FEEDBACK_WHEN_CORRECT>Correct!</FEEDBACK_WHEN_CORRECT>
+      <FEEDBACK_WHEN_INCORRECT>That's not correct!</FEEDBACK_WHEN_INCORRECT>
+      <CORRECTANSWER answer_id="q28_a1"/>
+    </GRADABLE>
+  </QUESTION_MULTIPLECHOICE>
+  <QUESTION_MULTIPLECHOICE id="q29">
+    <DATES>
+      <CREATED value="2020-10-05 21:37:31z"/>
+      <UPDATED value="2020-10-05 21:37:31z"/>
+    </DATES>
+    <BODY>
+      <TEXT>How do rational choice theorists describe the ways social institutions constrain actions? </TEXT>
+      <FLAGS value="true">
+        <ISHTML value="true"/>
+        <ISNEWLINELITERAL/>
+      </FLAGS>
+    </BODY>
+    <ANSWER id="q29_a1" position="1">
+      <DATES>
+        <CREATED value="2020-10-05 21:37:31z"/>
+        <UPDATED value="2020-10-05 21:37:31z"/>
+      </DATES>
+      <TEXT>Actors must consider the scarcity of resources. </TEXT>
+    </ANSWER>
+    <ANSWER id="q29_a2" position="2">
+      <DATES>
+        <CREATED value="2020-10-05 21:37:31z"/>
+        <UPDATED value="2020-10-05 21:37:31z"/>
+      </DATES>
+      <TEXT>Actors must consider the feasibility of actions as prescribed or prohibited by norms, laws, agendas, and voting rules. </TEXT>
+    </ANSWER>
+    <ANSWER id="q29_a3" position="3">
+      <DATES>
+        <CREATED value="2020-10-05 21:37:31z"/>
+        <UPDATED value="2020-10-05 21:37:31z"/>
+      </DATES>
+      <TEXT>A consideration of the cumulative social effects of individual actors should be considered. </TEXT>
+    </ANSWER>
+    <ANSWER id="q29_a4" position="4">
+      <DATES>
+        <CREATED value="2020-10-05 21:37:31z"/>
+        <UPDATED value="2020-10-05 21:37:31z"/>
+      </DATES>
+      <TEXT>A consideration of available information (or lack thereof) should be considered. </TEXT>
+    </ANSWER>
+    <GRADABLE>
+      <FEEDBACK_WHEN_CORRECT>Correct!</FEEDBACK_WHEN_CORRECT>
+      <FEEDBACK_WHEN_INCORRECT>That's not correct!</FEEDBACK_WHEN_INCORRECT>
+      <CORRECTANSWER answer_id="q29_a2"/>
+    </GRADABLE>
+  </QUESTION_MULTIPLECHOICE>
+  <QUESTION_MULTIPLECHOICE id="q30">
+    <DATES>
+      <CREATED value="2020-10-05 21:37:31z"/>
+      <UPDATED value="2020-10-05 21:37:31z"/>
+    </DATES>
+    <BODY>
+      <TEXT>According to James Coleman’s rational choice theory, ______ can be utilitarian because its goal is disequilibrium as opposed to equilibrium. </TEXT>
+      <FLAGS value="true">
+        <ISHTML value="true"/>
+        <ISNEWLINELITERAL/>
+      </FLAGS>
+    </BODY>
+    <ANSWER id="q30_a1" position="1">
+      <DATES>
+        <CREATED value="2020-10-05 21:37:31z"/>
+        <UPDATED value="2020-10-05 21:37:31z"/>
+      </DATES>
+      <TEXT>collective behavior </TEXT>
+    </ANSWER>
+    <ANSWER id="q30_a2" position="2">
+      <DATES>
+        <CREATED value="2020-10-05 21:37:31z"/>
+        <UPDATED value="2020-10-05 21:37:31z"/>
+      </DATES>
+      <TEXT>norms </TEXT>
+    </ANSWER>
+    <ANSWER id="q30_a3" position="3">
+      <DATES>
+        <CREATED value="2020-10-05 21:37:31z"/>
+        <UPDATED value="2020-10-05 21:37:31z"/>
+      </DATES>
+      <TEXT>corporate actors </TEXT>
+    </ANSWER>
+    <ANSWER id="q30_a4" position="4">
+      <DATES>
+        <CREATED value="2020-10-05 21:37:31z"/>
+        <UPDATED value="2020-10-05 21:37:31z"/>
+      </DATES>
+      <TEXT>homo socio-economicus </TEXT>
+    </ANSWER>
+    <GRADABLE>
+      <FEEDBACK_WHEN_CORRECT>Correct!</FEEDBACK_WHEN_CORRECT>
+      <FEEDBACK_WHEN_INCORRECT>That's not correct!</FEEDBACK_WHEN_INCORRECT>
+      <CORRECTANSWER answer_id="q30_a1"/>
+    </GRADABLE>
+  </QUESTION_MULTIPLECHOICE>
+  <QUESTION_TRUEFALSE id="q31">
+    <DATES>
+      <CREATED value="2020-10-05 21:37:31z"/>
+      <UPDATED value="2020-10-05 21:37:31z"/>
+    </DATES>
+    <BODY>
+      <TEXT>A fundamental assumption of symbolic interaction is that people learn the shared meanings of symbols. </TEXT>
+      <FLAGS value="true">
+        <ISHTML value="true"/>
+        <ISNEWLINELITERAL/>
+      </FLAGS>
+    </BODY>
+    <ANSWER id="q31_a1" position="1">
+      <DATES>
+        <CREATED value="2020-10-05 21:37:31z"/>
+        <UPDATED value="2020-10-05 21:37:31z"/>
+      </DATES>
+      <TEXT>true</TEXT>
+    </ANSWER>
+    <ANSWER id="q31_a2" position="2">
+      <DATES>
+        <CREATED value="2020-10-05 21:37:31z"/>
+        <UPDATED value="2020-10-05 21:37:31z"/>
+      </DATES>
+      <TEXT>false</TEXT>
+    </ANSWER>
+    <GRADABLE>
+      <FEEDBACK_WHEN_CORRECT>Correct!</FEEDBACK_WHEN_CORRECT>
+      <FEEDBACK_WHEN_INCORRECT>That's not correct!</FEEDBACK_WHEN_INCORRECT>
+      <CORRECTANSWER answer_id="q31_a1"/>
+    </GRADABLE>
+  </QUESTION_TRUEFALSE>
+  <QUESTION_TRUEFALSE id="q32">
+    <DATES>
+      <CREATED value="2020-10-05 21:37:31z"/>
+      <UPDATED value="2020-10-05 21:37:31z"/>
+    </DATES>
+    <BODY>
+      <TEXT>A fundamental assumption of symbolic interaction is that humans modify the interpretations of symbols through interactions with each other. </TEXT>
+      <FLAGS value="true">
+        <ISHTML value="true"/>
+        <ISNEWLINELITERAL/>
+      </FLAGS>
+    </BODY>
+    <ANSWER id="q32_a1" position="1">
+      <DATES>
+        <CREATED value="2020-10-05 21:37:31z"/>
+        <UPDATED value="2020-10-05 21:37:31z"/>
+      </DATES>
+      <TEXT>true</TEXT>
+    </ANSWER>
+    <ANSWER id="q32_a2" position="2">
+      <DATES>
+        <CREATED value="2020-10-05 21:37:31z"/>
+        <UPDATED value="2020-10-05 21:37:31z"/>
+      </DATES>
+      <TEXT>false</TEXT>
+    </ANSWER>
+    <GRADABLE>
+      <FEEDBACK_WHEN_CORRECT>Correct!</FEEDBACK_WHEN_CORRECT>
+      <FEEDBACK_WHEN_INCORRECT>That's not correct!</FEEDBACK_WHEN_INCORRECT>
+      <CORRECTANSWER answer_id="q32_a1"/>
+    </GRADABLE>
+  </QUESTION_TRUEFALSE>
+  <QUESTION_TRUEFALSE id="q33">
+    <DATES>
+      <CREATED value="2020-10-05 21:37:31z"/>
+      <UPDATED value="2020-10-05 21:37:31z"/>
+    </DATES>
+    <BODY>
+      <TEXT>A fundamental assumption of symbolic interaction is that unlike animals, humans have a capacity to rely on symbols. </TEXT>
+      <FLAGS value="true">
+        <ISHTML value="true"/>
+        <ISNEWLINELITERAL/>
+      </FLAGS>
+    </BODY>
+    <ANSWER id="q33_a1" position="1">
+      <DATES>
+        <CREATED value="2020-10-05 21:37:31z"/>
+        <UPDATED value="2020-10-05 21:37:31z"/>
+      </DATES>
+      <TEXT>true</TEXT>
+    </ANSWER>
+    <ANSWER id="q33_a2" position="2">
+      <DATES>
+        <CREATED value="2020-10-05 21:37:31z"/>
+        <UPDATED value="2020-10-05 21:37:31z"/>
+      </DATES>
+      <TEXT>false</TEXT>
+    </ANSWER>
+    <GRADABLE>
+      <FEEDBACK_WHEN_CORRECT>Correct!</FEEDBACK_WHEN_CORRECT>
+      <FEEDBACK_WHEN_INCORRECT>That's not correct!</FEEDBACK_WHEN_INCORRECT>
+      <CORRECTANSWER answer_id="q33_a1"/>
+    </GRADABLE>
+  </QUESTION_TRUEFALSE>
+  <QUESTION_TRUEFALSE id="q34">
+    <DATES>
+      <CREATED value="2020-10-05 21:37:31z"/>
+      <UPDATED value="2020-10-05 21:37:31z"/>
+    </DATES>
+    <BODY>
+      <TEXT>A primary group is characterized by its intimacy and its ability to link the person to the larger society. </TEXT>
+      <FLAGS value="true">
+        <ISHTML value="true"/>
+        <ISNEWLINELITERAL/>
+      </FLAGS>
+    </BODY>
+    <ANSWER id="q34_a1" position="1">
+      <DATES>
+        <CREATED value="2020-10-05 21:37:31z"/>
+        <UPDATED value="2020-10-05 21:37:31z"/>
+      </DATES>
+      <TEXT>true</TEXT>
+    </ANSWER>
+    <ANSWER id="q34_a2" position="2">
+      <DATES>
+        <CREATED value="2020-10-05 21:37:31z"/>
+        <UPDATED value="2020-10-05 21:37:31z"/>
+      </DATES>
+      <TEXT>false</TEXT>
+    </ANSWER>
+    <GRADABLE>
+      <FEEDBACK_WHEN_CORRECT>Correct!</FEEDBACK_WHEN_CORRECT>
+      <FEEDBACK_WHEN_INCORRECT>That's not correct!</FEEDBACK_WHEN_INCORRECT>
+      <CORRECTANSWER answer_id="q34_a1"/>
+    </GRADABLE>
+  </QUESTION_TRUEFALSE>
+  <QUESTION_TRUEFALSE id="q35">
+    <DATES>
+      <CREATED value="2020-10-05 21:37:31z"/>
+      <UPDATED value="2020-10-05 21:37:31z"/>
+    </DATES>
+    <BODY>
+      <TEXT>Appearance, according to Goffman, is those items of expressive equipment that the audience identifies with the performers and expects them to carry with them into the setting. </TEXT>
+      <FLAGS value="true">
+        <ISHTML value="true"/>
+        <ISNEWLINELITERAL/>
+      </FLAGS>
+    </BODY>
+    <ANSWER id="q35_a1" position="1">
+      <DATES>
+        <CREATED value="2020-10-05 21:37:31z"/>
+        <UPDATED value="2020-10-05 21:37:31z"/>
+      </DATES>
+      <TEXT>true</TEXT>
+    </ANSWER>
+    <ANSWER id="q35_a2" position="2">
+      <DATES>
+        <CREATED value="2020-10-05 21:37:31z"/>
+        <UPDATED value="2020-10-05 21:37:31z"/>
+      </DATES>
+      <TEXT>false</TEXT>
+    </ANSWER>
+    <GRADABLE>
+      <FEEDBACK_WHEN_CORRECT>Correct!</FEEDBACK_WHEN_CORRECT>
+      <FEEDBACK_WHEN_INCORRECT>That's not correct!</FEEDBACK_WHEN_INCORRECT>
+      <CORRECTANSWER answer_id="q35_a2"/>
+    </GRADABLE>
+  </QUESTION_TRUEFALSE>
+  <QUESTION_TRUEFALSE id="q36">
+    <DATES>
+      <CREATED value="2020-10-05 21:37:31z"/>
+      <UPDATED value="2020-10-05 21:37:31z"/>
+    </DATES>
+    <BODY>
+      <TEXT>The expression of confidence on a surgeon’s face after an operation would be known to Erving Goffman as an example of manner. </TEXT>
+      <FLAGS value="true">
+        <ISHTML value="true"/>
+        <ISNEWLINELITERAL/>
+      </FLAGS>
+    </BODY>
+    <ANSWER id="q36_a1" position="1">
+      <DATES>
+        <CREATED value="2020-10-05 21:37:31z"/>
+        <UPDATED value="2020-10-05 21:37:31z"/>
+      </DATES>
+      <TEXT>true</TEXT>
+    </ANSWER>
+    <ANSWER id="q36_a2" position="2">
+      <DATES>
+        <CREATED value="2020-10-05 21:37:31z"/>
+        <UPDATED value="2020-10-05 21:37:31z"/>
+      </DATES>
+      <TEXT>false</TEXT>
+    </ANSWER>
+    <GRADABLE>
+      <FEEDBACK_WHEN_CORRECT>Correct!</FEEDBACK_WHEN_CORRECT>
+      <FEEDBACK_WHEN_INCORRECT>That's not correct!</FEEDBACK_WHEN_INCORRECT>
+      <CORRECTANSWER answer_id="q36_a1"/>
+    </GRADABLE>
+  </QUESTION_TRUEFALSE>
+  <QUESTION_TRUEFALSE id="q37">
+    <DATES>
+      <CREATED value="2020-10-05 21:37:31z"/>
+      <UPDATED value="2020-10-05 21:37:31z"/>
+    </DATES>
+    <BODY>
+      <TEXT>From a dramaturgical perspective, the self is a sense of who one is that goes into creating the performance. </TEXT>
+      <FLAGS value="true">
+        <ISHTML value="true"/>
+        <ISNEWLINELITERAL/>
+      </FLAGS>
+    </BODY>
+    <ANSWER id="q37_a1" position="1">
+      <DATES>
+        <CREATED value="2020-10-05 21:37:31z"/>
+        <UPDATED value="2020-10-05 21:37:31z"/>
+      </DATES>
+      <TEXT>true</TEXT>
+    </ANSWER>
+    <ANSWER id="q37_a2" position="2">
+      <DATES>
+        <CREATED value="2020-10-05 21:37:31z"/>
+        <UPDATED value="2020-10-05 21:37:31z"/>
+      </DATES>
+      <TEXT>false</TEXT>
+    </ANSWER>
+    <GRADABLE>
+      <FEEDBACK_WHEN_CORRECT>Correct!</FEEDBACK_WHEN_CORRECT>
+      <FEEDBACK_WHEN_INCORRECT>That's not correct!</FEEDBACK_WHEN_INCORRECT>
+      <CORRECTANSWER answer_id="q37_a2"/>
+    </GRADABLE>
+  </QUESTION_TRUEFALSE>
+  <QUESTION_TRUEFALSE id="q38">
+    <DATES>
+      <CREATED value="2020-10-05 21:37:31z"/>
+      <UPDATED value="2020-10-05 21:37:31z"/>
+    </DATES>
+    <BODY>
+      <TEXT>According to Erving Goffman’s dramaturgy, an actor assumes discredited stigmas are not known by audience members. </TEXT>
+      <FLAGS value="true">
+        <ISHTML value="true"/>
+        <ISNEWLINELITERAL/>
+      </FLAGS>
+    </BODY>
+    <ANSWER id="q38_a1" position="1">
+      <DATES>
+        <CREATED value="2020-10-05 21:37:31z"/>
+        <UPDATED value="2020-10-05 21:37:31z"/>
+      </DATES>
+      <TEXT>true</TEXT>
+    </ANSWER>
+    <ANSWER id="q38_a2" position="2">
+      <DATES>
+        <CREATED value="2020-10-05 21:37:31z"/>
+        <UPDATED value="2020-10-05 21:37:31z"/>
+      </DATES>
+      <TEXT>false</TEXT>
+    </ANSWER>
+    <GRADABLE>
+      <FEEDBACK_WHEN_CORRECT>Correct!</FEEDBACK_WHEN_CORRECT>
+      <FEEDBACK_WHEN_INCORRECT>That's not correct!</FEEDBACK_WHEN_INCORRECT>
+      <CORRECTANSWER answer_id="q38_a2"/>
+    </GRADABLE>
+  </QUESTION_TRUEFALSE>
+  <QUESTION_TRUEFALSE id="q39">
+    <DATES>
+      <CREATED value="2020-10-05 21:37:31z"/>
+      <UPDATED value="2020-10-05 21:37:31z"/>
+    </DATES>
+    <BODY>
+      <TEXT>Arlie Hoschild extended Ervin Goffman’s concept of dramaturgy by studying the role that religious beliefs play in social performances. </TEXT>
+      <FLAGS value="true">
+        <ISHTML value="true"/>
+        <ISNEWLINELITERAL/>
+      </FLAGS>
+    </BODY>
+    <ANSWER id="q39_a1" position="1">
+      <DATES>
+        <CREATED value="2020-10-05 21:37:31z"/>
+        <UPDATED value="2020-10-05 21:37:31z"/>
+      </DATES>
+      <TEXT>true</TEXT>
+    </ANSWER>
+    <ANSWER id="q39_a2" position="2">
+      <DATES>
+        <CREATED value="2020-10-05 21:37:31z"/>
+        <UPDATED value="2020-10-05 21:37:31z"/>
+      </DATES>
+      <TEXT>false</TEXT>
+    </ANSWER>
+    <GRADABLE>
+      <FEEDBACK_WHEN_CORRECT>Correct!</FEEDBACK_WHEN_CORRECT>
+      <FEEDBACK_WHEN_INCORRECT>That's not correct!</FEEDBACK_WHEN_INCORRECT>
+      <CORRECTANSWER answer_id="q39_a2"/>
+    </GRADABLE>
+  </QUESTION_TRUEFALSE>
+  <QUESTION_TRUEFALSE id="q40">
+    <DATES>
+      <CREATED value="2020-10-05 21:37:31z"/>
+      <UPDATED value="2020-10-05 21:37:31z"/>
+    </DATES>
+    <BODY>
+      <TEXT>Emotion management is shaped by cultural feeling rules. </TEXT>
+      <FLAGS value="true">
+        <ISHTML value="true"/>
+        <ISNEWLINELITERAL/>
+      </FLAGS>
+    </BODY>
+    <ANSWER id="q40_a1" position="1">
+      <DATES>
+        <CREATED value="2020-10-05 21:37:31z"/>
+        <UPDATED value="2020-10-05 21:37:31z"/>
+      </DATES>
+      <TEXT>true</TEXT>
+    </ANSWER>
+    <ANSWER id="q40_a2" position="2">
+      <DATES>
+        <CREATED value="2020-10-05 21:37:31z"/>
+        <UPDATED value="2020-10-05 21:37:31z"/>
+      </DATES>
+      <TEXT>false</TEXT>
+    </ANSWER>
+    <GRADABLE>
+      <FEEDBACK_WHEN_CORRECT>Correct!</FEEDBACK_WHEN_CORRECT>
+      <FEEDBACK_WHEN_INCORRECT>That's not correct!</FEEDBACK_WHEN_INCORRECT>
+      <CORRECTANSWER answer_id="q40_a1"/>
+    </GRADABLE>
+  </QUESTION_TRUEFALSE>
+  <QUESTION_TRUEFALSE id="q41">
+    <DATES>
+      <CREATED value="2020-10-05 21:37:31z"/>
+      <UPDATED value="2020-10-05 21:37:31z"/>
+    </DATES>
+    <BODY>
+      <TEXT>Emotion work can only evoke socially appropriate feelings; it cannot be utilized to suppress socially inappropriate emotions. </TEXT>
+      <FLAGS value="true">
+        <ISHTML value="true"/>
+        <ISNEWLINELITERAL/>
+      </FLAGS>
+    </BODY>
+    <ANSWER id="q41_a1" position="1">
+      <DATES>
+        <CREATED value="2020-10-05 21:37:31z"/>
+        <UPDATED value="2020-10-05 21:37:31z"/>
+      </DATES>
+      <TEXT>true</TEXT>
+    </ANSWER>
+    <ANSWER id="q41_a2" position="2">
+      <DATES>
+        <CREATED value="2020-10-05 21:37:31z"/>
+        <UPDATED value="2020-10-05 21:37:31z"/>
+      </DATES>
+      <TEXT>false</TEXT>
+    </ANSWER>
+    <GRADABLE>
+      <FEEDBACK_WHEN_CORRECT>Correct!</FEEDBACK_WHEN_CORRECT>
+      <FEEDBACK_WHEN_INCORRECT>That's not correct!</FEEDBACK_WHEN_INCORRECT>
+      <CORRECTANSWER answer_id="q41_a2"/>
+    </GRADABLE>
+  </QUESTION_TRUEFALSE>
+  <QUESTION_TRUEFALSE id="q42">
+    <DATES>
+      <CREATED value="2020-10-05 21:37:31z"/>
+      <UPDATED value="2020-10-05 21:37:31z"/>
+    </DATES>
+    <BODY>
+      <TEXT>Ethnomethodologists conduct breaching experiments to illustrate the way people order their everyday lives. </TEXT>
+      <FLAGS value="true">
+        <ISHTML value="true"/>
+        <ISNEWLINELITERAL/>
+      </FLAGS>
+    </BODY>
+    <ANSWER id="q42_a1" position="1">
+      <DATES>
+        <CREATED value="2020-10-05 21:37:31z"/>
+        <UPDATED value="2020-10-05 21:37:31z"/>
+      </DATES>
+      <TEXT>true</TEXT>
+    </ANSWER>
+    <ANSWER id="q42_a2" position="2">
+      <DATES>
+        <CREATED value="2020-10-05 21:37:31z"/>
+        <UPDATED value="2020-10-05 21:37:31z"/>
+      </DATES>
+      <TEXT>false</TEXT>
+    </ANSWER>
+    <GRADABLE>
+      <FEEDBACK_WHEN_CORRECT>Correct!</FEEDBACK_WHEN_CORRECT>
+      <FEEDBACK_WHEN_INCORRECT>That's not correct!</FEEDBACK_WHEN_INCORRECT>
+      <CORRECTANSWER answer_id="q42_a1"/>
+    </GRADABLE>
+  </QUESTION_TRUEFALSE>
+  <QUESTION_TRUEFALSE id="q43">
+    <DATES>
+      <CREATED value="2020-10-05 21:37:31z"/>
+      <UPDATED value="2020-10-05 21:37:31z"/>
+    </DATES>
+    <BODY>
+      <TEXT>Harold Garfinkel’s ethnomethodological study of a woman named Agnes revealed that gender is not determined by biology but is instead a practice people accomplish in daily life. </TEXT>
+      <FLAGS value="true">
+        <ISHTML value="true"/>
+        <ISNEWLINELITERAL/>
+      </FLAGS>
+    </BODY>
+    <ANSWER id="q43_a1" position="1">
+      <DATES>
+        <CREATED value="2020-10-05 21:37:31z"/>
+        <UPDATED value="2020-10-05 21:37:31z"/>
+      </DATES>
+      <TEXT>true</TEXT>
+    </ANSWER>
+    <ANSWER id="q43_a2" position="2">
+      <DATES>
+        <CREATED value="2020-10-05 21:37:31z"/>
+        <UPDATED value="2020-10-05 21:37:31z"/>
+      </DATES>
+      <TEXT>false</TEXT>
+    </ANSWER>
+    <GRADABLE>
+      <FEEDBACK_WHEN_CORRECT>Correct!</FEEDBACK_WHEN_CORRECT>
+      <FEEDBACK_WHEN_INCORRECT>That's not correct!</FEEDBACK_WHEN_INCORRECT>
+      <CORRECTANSWER answer_id="q43_a1"/>
+    </GRADABLE>
+  </QUESTION_TRUEFALSE>
+  <QUESTION_TRUEFALSE id="q44">
+    <DATES>
+      <CREATED value="2020-10-05 21:37:31z"/>
+      <UPDATED value="2020-10-05 21:37:31z"/>
+    </DATES>
+    <BODY>
+      <TEXT>George Homans attempted to explain social behavior by focusing on the power of norms. </TEXT>
+      <FLAGS value="true">
+        <ISHTML value="true"/>
+        <ISNEWLINELITERAL/>
+      </FLAGS>
+    </BODY>
+    <ANSWER id="q44_a1" position="1">
+      <DATES>
+        <CREATED value="2020-10-05 21:37:31z"/>
+        <UPDATED value="2020-10-05 21:37:31z"/>
+      </DATES>
+      <TEXT>true</TEXT>
+    </ANSWER>
+    <ANSWER id="q44_a2" position="2">
+      <DATES>
+        <CREATED value="2020-10-05 21:37:31z"/>
+        <UPDATED value="2020-10-05 21:37:31z"/>
+      </DATES>
+      <TEXT>false</TEXT>
+    </ANSWER>
+    <GRADABLE>
+      <FEEDBACK_WHEN_CORRECT>Correct!</FEEDBACK_WHEN_CORRECT>
+      <FEEDBACK_WHEN_INCORRECT>That's not correct!</FEEDBACK_WHEN_INCORRECT>
+      <CORRECTANSWER answer_id="q44_a2"/>
+    </GRADABLE>
+  </QUESTION_TRUEFALSE>
+  <QUESTION_TRUEFALSE id="q45">
+    <DATES>
+      <CREATED value="2020-10-05 21:37:31z"/>
+      <UPDATED value="2020-10-05 21:37:31z"/>
+    </DATES>
+    <BODY>
+      <TEXT>The “cost” in social exchange is seen as the rewards that are lost to a person because they forgo other lines of action. </TEXT>
+      <FLAGS value="true">
+        <ISHTML value="true"/>
+        <ISNEWLINELITERAL/>
+      </FLAGS>
+    </BODY>
+    <ANSWER id="q45_a1" position="1">
+      <DATES>
+        <CREATED value="2020-10-05 21:37:31z"/>
+        <UPDATED value="2020-10-05 21:37:31z"/>
+      </DATES>
+      <TEXT>true</TEXT>
+    </ANSWER>
+    <ANSWER id="q45_a2" position="2">
+      <DATES>
+        <CREATED value="2020-10-05 21:37:31z"/>
+        <UPDATED value="2020-10-05 21:37:31z"/>
+      </DATES>
+      <TEXT>false</TEXT>
+    </ANSWER>
+    <GRADABLE>
+      <FEEDBACK_WHEN_CORRECT>Correct!</FEEDBACK_WHEN_CORRECT>
+      <FEEDBACK_WHEN_INCORRECT>That's not correct!</FEEDBACK_WHEN_INCORRECT>
+      <CORRECTANSWER answer_id="q45_a1"/>
+    </GRADABLE>
+  </QUESTION_TRUEFALSE>
+  <QUESTION_TRUEFALSE id="q46">
+    <DATES>
+      <CREATED value="2020-10-05 21:37:31z"/>
+      <UPDATED value="2020-10-05 21:37:31z"/>
+    </DATES>
+    <BODY>
+      <TEXT>To George Homans, when people do not receive anticipated rewards or receive unanticipated punishment, they are more likely to value those rewards even more. </TEXT>
+      <FLAGS value="true">
+        <ISHTML value="true"/>
+        <ISNEWLINELITERAL/>
+      </FLAGS>
+    </BODY>
+    <ANSWER id="q46_a1" position="1">
+      <DATES>
+        <CREATED value="2020-10-05 21:37:31z"/>
+        <UPDATED value="2020-10-05 21:37:31z"/>
+      </DATES>
+      <TEXT>true</TEXT>
+    </ANSWER>
+    <ANSWER id="q46_a2" position="2">
+      <DATES>
+        <CREATED value="2020-10-05 21:37:31z"/>
+        <UPDATED value="2020-10-05 21:37:31z"/>
+      </DATES>
+      <TEXT>false</TEXT>
+    </ANSWER>
+    <GRADABLE>
+      <FEEDBACK_WHEN_CORRECT>Correct!</FEEDBACK_WHEN_CORRECT>
+      <FEEDBACK_WHEN_INCORRECT>That's not correct!</FEEDBACK_WHEN_INCORRECT>
+      <CORRECTANSWER answer_id="q46_a2"/>
+    </GRADABLE>
+  </QUESTION_TRUEFALSE>
+  <QUESTION_TRUEFALSE id="q47">
+    <DATES>
+      <CREATED value="2020-10-05 21:37:31z"/>
+      <UPDATED value="2020-10-05 21:37:31z"/>
+    </DATES>
+    <BODY>
+      <TEXT>One strength of George Homan’s theory is that it strongly incorporates mental states and large-scale structures. </TEXT>
+      <FLAGS value="true">
+        <ISHTML value="true"/>
+        <ISNEWLINELITERAL/>
+      </FLAGS>
+    </BODY>
+    <ANSWER id="q47_a1" position="1">
+      <DATES>
+        <CREATED value="2020-10-05 21:37:31z"/>
+        <UPDATED value="2020-10-05 21:37:31z"/>
+      </DATES>
+      <TEXT>true</TEXT>
+    </ANSWER>
+    <ANSWER id="q47_a2" position="2">
+      <DATES>
+        <CREATED value="2020-10-05 21:37:31z"/>
+        <UPDATED value="2020-10-05 21:37:31z"/>
+      </DATES>
+      <TEXT>false</TEXT>
+    </ANSWER>
+    <GRADABLE>
+      <FEEDBACK_WHEN_CORRECT>Correct!</FEEDBACK_WHEN_CORRECT>
+      <FEEDBACK_WHEN_INCORRECT>That's not correct!</FEEDBACK_WHEN_INCORRECT>
+      <CORRECTANSWER answer_id="q47_a2"/>
+    </GRADABLE>
+  </QUESTION_TRUEFALSE>
+  <QUESTION_TRUEFALSE id="q48">
+    <DATES>
+      <CREATED value="2020-10-05 21:37:31z"/>
+      <UPDATED value="2020-10-05 21:37:31z"/>
+    </DATES>
+    <BODY>
+      <TEXT>The focus of rational choice is institutions. </TEXT>
+      <FLAGS value="true">
+        <ISHTML value="true"/>
+        <ISNEWLINELITERAL/>
+      </FLAGS>
+    </BODY>
+    <ANSWER id="q48_a1" position="1">
+      <DATES>
+        <CREATED value="2020-10-05 21:37:31z"/>
+        <UPDATED value="2020-10-05 21:37:31z"/>
+      </DATES>
+      <TEXT>true</TEXT>
+    </ANSWER>
+    <ANSWER id="q48_a2" position="2">
+      <DATES>
+        <CREATED value="2020-10-05 21:37:31z"/>
+        <UPDATED value="2020-10-05 21:37:31z"/>
+      </DATES>
+      <TEXT>false</TEXT>
+    </ANSWER>
+    <GRADABLE>
+      <FEEDBACK_WHEN_CORRECT>Correct!</FEEDBACK_WHEN_CORRECT>
+      <FEEDBACK_WHEN_INCORRECT>That's not correct!</FEEDBACK_WHEN_INCORRECT>
+      <CORRECTANSWER answer_id="q48_a2"/>
+    </GRADABLE>
+  </QUESTION_TRUEFALSE>
+  <QUESTION_TRUEFALSE id="q49">
+    <DATES>
+      <CREATED value="2020-10-05 21:37:31z"/>
+      <UPDATED value="2020-10-05 21:37:31z"/>
+    </DATES>
+    <BODY>
+      <TEXT>The two key elements in James Coleman’s rational choice theory are actors and norms. </TEXT>
+      <FLAGS value="true">
+        <ISHTML value="true"/>
+        <ISNEWLINELITERAL/>
+      </FLAGS>
+    </BODY>
+    <ANSWER id="q49_a1" position="1">
+      <DATES>
+        <CREATED value="2020-10-05 21:37:31z"/>
+        <UPDATED value="2020-10-05 21:37:31z"/>
+      </DATES>
+      <TEXT>true</TEXT>
+    </ANSWER>
+    <ANSWER id="q49_a2" position="2">
+      <DATES>
+        <CREATED value="2020-10-05 21:37:31z"/>
+        <UPDATED value="2020-10-05 21:37:31z"/>
+      </DATES>
+      <TEXT>false</TEXT>
+    </ANSWER>
+    <GRADABLE>
+      <FEEDBACK_WHEN_CORRECT>Correct!</FEEDBACK_WHEN_CORRECT>
+      <FEEDBACK_WHEN_INCORRECT>That's not correct!</FEEDBACK_WHEN_INCORRECT>
+      <CORRECTANSWER answer_id="q49_a2"/>
+    </GRADABLE>
+  </QUESTION_TRUEFALSE>
+  <QUESTION_TRUEFALSE id="q50">
+    <DATES>
+      <CREATED value="2020-10-05 21:37:31z"/>
+      <UPDATED value="2020-10-05 21:37:31z"/>
+    </DATES>
+    <BODY>
+      <TEXT>According to James Coleman’s rational choice theory, norms can be utilitarian because they create equilibrium as numerous actors give up similar amounts and levels of control over their behavior. </TEXT>
+      <FLAGS value="true">
+        <ISHTML value="true"/>
+        <ISNEWLINELITERAL/>
+      </FLAGS>
+    </BODY>
+    <ANSWER id="q50_a1" position="1">
+      <DATES>
+        <CREATED value="2020-10-05 21:37:31z"/>
+        <UPDATED value="2020-10-05 21:37:31z"/>
+      </DATES>
+      <TEXT>true</TEXT>
+    </ANSWER>
+    <ANSWER id="q50_a2" position="2">
+      <DATES>
+        <CREATED value="2020-10-05 21:37:31z"/>
+        <UPDATED value="2020-10-05 21:37:31z"/>
+      </DATES>
+      <TEXT>false</TEXT>
+    </ANSWER>
+    <GRADABLE>
+      <FEEDBACK_WHEN_CORRECT>Correct!</FEEDBACK_WHEN_CORRECT>
+      <FEEDBACK_WHEN_INCORRECT>That's not correct!</FEEDBACK_WHEN_INCORRECT>
+      <CORRECTANSWER answer_id="q50_a1"/>
+    </GRADABLE>
+  </QUESTION_TRUEFALSE>
 </POOL>

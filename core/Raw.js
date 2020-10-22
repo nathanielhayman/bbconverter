@@ -14,6 +14,7 @@ const readRawData = function (raw) {
     raw = ograw.replace(/(\r\n|\n|\r)/gm, ' ').split(' ')
 
     var question = {value: '', finished: true}
+    var currentQuestion
     var answer = {value: '', finished: true, correct: false}
 
     var trueTerms = ['t', 'true', 'correct']
@@ -29,6 +30,8 @@ const readRawData = function (raw) {
     var lines = raw.split('\n')
     lines.forEach(line => {
         words = line.split(' ')
+
+        currentQuestion = pool.questions[pool.questions.length - 1] 
         
         if (questionTerms.some(i => words[0].endsWith(i))) {
 
@@ -36,20 +39,20 @@ const readRawData = function (raw) {
 
             if (words[0].toLowerCase().startsWith('ans' || 'answer')) {
 
-                if (pool.questions[pool.questions.length - 1].answers[0]) {
+                if (currentQuestion.answers[0]) {
 
-                    pool.questions[pool.questions.length - 1].correct = 
-                    pool.questions[pool.questions.length - 1].answers[alphabet.indexOf(words[1].toLowerCase())]
+                    currentQuestion.correct = 
+                    currentQuestion.answers[alphabet.indexOf(words[1].toLowerCase())]
 
                 } else if (trueTerms.some(i => words[1].toLowerCase().includes(i))) {
 
-                    pool.questions[pool.questions.length - 1].type = 'QUESTION_TRUEFALSE'
-                    pool.questions[pool.questions.length - 1].correct = 't'
+                    currentQuestion.type = 'QUESTION_TRUEFALSE'
+                    currentQuestion.correct = 't'
 
                 } else if (falseTerms.some(i => words[1].toLowerCase().includes(i))) {
 
-                    pool.questions[pool.questions.length - 1].type = 'QUESTION_TRUEFALSE'
-                    pool.questions[pool.questions.length - 1].correct = 'f'
+                    currentQuestion.type = 'QUESTION_TRUEFALSE'
+                    currentQuestion.correct = 'f'
 
                 }
 
@@ -57,13 +60,13 @@ const readRawData = function (raw) {
 
                 if (words[0].startsWith('*')) {
                     words.shift()
-                    pool.questions[pool.questions.length - 1].correct = words.join(' ')
-                    pool.questions[pool.questions.length - 1].type = 'QUESTION_MULTIPLECHOICE'
-                    pool.questions[pool.questions.length - 1].answers.push(words.join(' '))
+                    currentQuestion.correct = words.join(' ')
+                    currentQuestion.type = 'QUESTION_MULTIPLECHOICE'
+                    currentQuestion.answers.push(words.join(' '))
                 } else {
                     words.shift()
-                    pool.questions[pool.questions.length - 1].type = 'QUESTION_MULTIPLECHOICE'
-                    pool.questions[pool.questions.length - 1].answers.push(words.join(' '))
+                    currentQuestion.type = 'QUESTION_MULTIPLECHOICE'
+                    currentQuestion.answers.push(words.join(' '))
                 }
 
             } else if (Number(words[0].slice(0, -1))) {
@@ -79,8 +82,6 @@ const readRawData = function (raw) {
 
         }
     })
-
-    console.log(pool)
 
     return pool
 }

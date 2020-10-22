@@ -1,7 +1,7 @@
 
 // Get correctly formatted date
 
-getDate = function () {
+module.exports.bbFormattedDate = function () {
     const dt = new Date();
 
     const now = `${
@@ -14,6 +14,3 @@ getDate = function () {
 
     return now
 }
-
-
-module.exports.bbFormattedDate = getDate()

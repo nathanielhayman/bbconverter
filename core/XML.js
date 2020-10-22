@@ -9,24 +9,15 @@
 const builder = require('xmlbuilder');
 const fs = require('fs');
 
-const { generateXMLQuestions } = require('./MultipleChoiceParser')
+const { generateXMLQuestions } = require('./TypeParser')
 const { bbFormattedDate } = require('../utils/Date')
 
 
-let generateFile = function (questions, err) {
+module.exports.generateXMLFile = function (questions, err) {
 
     if (err) throw err;
 
-    // Get the current date in BB form
-    const dt = new Date();
-
-    const now = `${
-        dt.getFullYear().toString().padStart(4, '0')}-${
-        (dt.getMonth() + 1).toString().padStart(2, '0')}-${
-        dt.getDate().toString().padStart(2, '0')} ${
-        dt.getHours().toString().padStart(2, '0')}:${
-        dt.getMinutes().toString().padStart(2, '0')}:${
-        dt.getSeconds().toString().padStart(2, '0')}z`;
+    const now = bbFormattedDate()
 
     // Writer for the XML. Uses package 'xmlbuilder'
     const root = builder.create('POOL', { encoding: 'UTF-8' })
@@ -73,16 +64,12 @@ let generateFile = function (questions, err) {
         QUESTION_ESSAY: generateXMLQuestions[2],
 
     };
+    
+    console.log('ESSAY')
+    console.log(generatedQuestions[2])
 
     root.ele(obj);
     const xml = root.end({ pretty: true })
 
-    // Create xml file
-    fs.writeFile('something.xml', xml, function (err) {
-        if (err) throw err;
-    })
-    console.log(xml)
     return xml
 }
-
-module.exports.generateXMLFile = generateFile
